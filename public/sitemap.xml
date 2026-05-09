@@ -137,19 +137,19 @@
     <loc>https://contributor.info/microsoft/vscode</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-05-04T12:57:24.317Z</lastmod>
+    <lastmod>2026-05-08T12:40:30.592Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-04T12:57:24.317Z</lastmod>
+    <lastmod>2026-05-08T12:40:30.592Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-04T12:57:24.317Z</lastmod>
+    <lastmod>2026-05-08T12:40:30.592Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama</loc>
@@ -389,19 +389,19 @@
     <loc>https://contributor.info/continuedev/continue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T14:59:42.589Z</lastmod>
+    <lastmod>2026-05-09T02:26:03.421Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T14:59:42.589Z</lastmod>
+    <lastmod>2026-05-09T02:26:03.421Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T14:59:42.589Z</lastmod>
+    <lastmod>2026-05-09T02:26:03.421Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table</loc>
@@ -551,19 +551,19 @@
     <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-04T12:56:39.530Z</lastmod>
+    <lastmod>2026-05-08T15:20:21.931Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Kilo-Org/kilocode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-04T12:56:39.530Z</lastmod>
+    <lastmod>2026-05-08T15:20:21.931Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Kilo-Org/kilocode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-04T12:56:39.530Z</lastmod>
+    <lastmod>2026-05-08T15:20:21.931Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Mail-0/Zero</loc>
@@ -1232,16 +1232,16 @@
     <lastmod>2026-05-04T12:57:40.076Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/cline/cline</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-04T12:55:49.107Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/duckdb/duckdb</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-04T12:57:29.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/cline/cline</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-08T15:24:18.810Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/axios/axios</loc>
