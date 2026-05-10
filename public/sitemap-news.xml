@@ -14,14 +14,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/vitejs/vite</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-07T17:54:57.850Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-05-09T08:11:39.396Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T12:33:45.450Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <loc>https://contributor.info/argoproj/argo-cd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-07T12:33:38.653Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+      <news:publication_date>2026-05-09T03:26:55.762Z</news:publication_date>
+      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,58 +69,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-07T18:01:59.716Z</news:publication_date>
-      <news:title>ArshadMahalkari/StockApp - Contributor Updates</news:title>
+      <news:publication_date>2026-05-09T15:57:44.800Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/myenergy</loc>
+    <loc>https://contributor.info/open-sauced/app</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-07T16:34:57.526Z</news:publication_date>
-      <news:title>sujithq/myenergy - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T02:03:42.611Z</news:publication_date>
-      <news:title>Ad-Astra-Innovia/frontend - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T17:01:25.369Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/terraform-providers/terraform-provider-aws</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T02:20:32.940Z</news:publication_date>
-      <news:title>terraform-providers/terraform-provider-aws - Contributor Updates</news:title>
+      <news:publication_date>2026-05-09T06:54:34.306Z</news:publication_date>
+      <news:title>open-sauced/app - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
