@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T12:40:30.592Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/vitejs/vite</loc>
     <news:news>
       <news:publication>
@@ -42,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-09T02:26:03.421Z</news:publication_date>
+      <news:publication_date>2026-05-10T14:45:19.714Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -58,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-08T15:20:21.931Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+      <news:publication_date>2026-05-10T05:59:01.181Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -91,14 +80,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/cline/cline</loc>
+    <loc>https://contributor.info/Supabase/supabase</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-08T15:24:18.810Z</news:publication_date>
-      <news:title>cline/cline - Contributor Updates</news:title>
+      <news:publication_date>2026-05-10T07:01:38.527Z</news:publication_date>
+      <news:title>Supabase/supabase - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
