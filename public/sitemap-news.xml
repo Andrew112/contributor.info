@@ -9,19 +9,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-09T08:11:39.396Z</news:publication_date>
+      <news:publication_date>2026-05-11T06:21:10.720Z</news:publication_date>
       <news:title>vitejs/vite - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T12:33:45.450Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -31,19 +20,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-10T14:45:19.714Z</news:publication_date>
+      <news:publication_date>2026-05-11T09:00:53.971Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/argoproj/argo-cd</loc>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-09T03:26:55.762Z</news:publication_date>
-      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
+      <news:publication_date>2026-05-11T21:38:01.086Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,28 +47,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T15:57:44.800Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/open-sauced/app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T06:54:34.306Z</news:publication_date>
-      <news:title>open-sauced/app - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/Supabase/supabase</loc>
     <news:news>
       <news:publication>
@@ -88,6 +55,17 @@
       </news:publication>
       <news:publication_date>2026-05-10T07:01:38.527Z</news:publication_date>
       <news:title>Supabase/supabase - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/fastapi/fastapi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T05:24:31.564Z</news:publication_date>
+      <news:title>fastapi/fastapi - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

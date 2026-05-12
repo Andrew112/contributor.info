@@ -263,19 +263,19 @@
     <loc>https://contributor.info/vitejs/vite</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-05-09T08:11:39.396Z</lastmod>
+    <lastmod>2026-05-11T06:21:10.720Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/vitejs/vite/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-09T08:11:39.396Z</lastmod>
+    <lastmod>2026-05-11T06:21:10.720Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/vitejs/vite/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-09T08:11:39.396Z</lastmod>
+    <lastmod>2026-05-11T06:21:10.720Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
@@ -389,19 +389,19 @@
     <loc>https://contributor.info/continuedev/continue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-10T14:45:19.714Z</lastmod>
+    <lastmod>2026-05-11T09:00:53.971Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-10T14:45:19.714Z</lastmod>
+    <lastmod>2026-05-11T09:00:53.971Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-10T14:45:19.714Z</lastmod>
+    <lastmod>2026-05-11T09:00:53.971Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table</loc>
@@ -497,19 +497,19 @@
     <loc>https://contributor.info/better-auth/better-auth</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T12:33:38.653Z</lastmod>
+    <lastmod>2026-05-11T21:38:01.086Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/better-auth/better-auth/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T12:33:38.653Z</lastmod>
+    <lastmod>2026-05-11T21:38:01.086Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/better-auth/better-auth/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-07T12:33:38.653Z</lastmod>
+    <lastmod>2026-05-11T21:38:01.086Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/agent0ai/agent-zero</loc>
@@ -1265,7 +1265,7 @@
     <loc>https://contributor.info/fastapi/fastapi</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-04T12:56:29.091Z</lastmod>
+    <lastmod>2026-05-11T05:24:31.564Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rust-lang/rust</loc>
