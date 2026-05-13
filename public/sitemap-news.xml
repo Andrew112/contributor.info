@@ -14,6 +14,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T05:26:38.968Z</news:publication_date>
+      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
@@ -36,25 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <loc>https://contributor.info/anthropics/claude-code</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-10T05:59:01.181Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Supabase/supabase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T07:01:38.527Z</news:publication_date>
-      <news:title>Supabase/supabase - Contributor Updates</news:title>
+      <news:publication_date>2026-05-12T08:44:41.065Z</news:publication_date>
+      <news:title>anthropics/claude-code - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
