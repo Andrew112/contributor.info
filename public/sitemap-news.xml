@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/vitejs/vite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T06:21:10.720Z</news:publication_date>
-      <news:title>vitejs/vite - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
     <news:news>
       <news:publication>
@@ -25,25 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/atuinsh/desktop</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-11T09:00:53.971Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T21:38:01.086Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+      <news:publication_date>2026-05-13T06:38:08.934Z</news:publication_date>
+      <news:title>atuinsh/desktop - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,14 +36,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/fastapi/fastapi</loc>
+    <loc>https://contributor.info/shadcn/ui</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-11T05:24:31.564Z</news:publication_date>
-      <news:title>fastapi/fastapi - Contributor Updates</news:title>
+      <news:publication_date>2026-05-13T18:22:52.316Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
