@@ -14,14 +14,36 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/vitejs/vite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T19:18:53.947Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-14T20:16:21.537Z</news:publication_date>
+      <news:publication_date>2026-05-15T16:13:02.602Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vercel/ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T19:54:31.677Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,14 +58,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-13T06:38:08.934Z</news:publication_date>
-      <news:title>atuinsh/desktop - Contributor Updates</news:title>
+      <news:publication_date>2026-05-15T17:12:55.601Z</news:publication_date>
+      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -55,17 +77,6 @@
       </news:publication>
       <news:publication_date>2026-05-14T11:21:30.283Z</news:publication_date>
       <news:title>topoteretes/cognee - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/shadcn/ui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T18:22:52.316Z</news:publication_date>
-      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -99,6 +110,17 @@
       </news:publication>
       <news:publication_date>2026-05-14T04:55:43.348Z</news:publication_date>
       <news:title>rust-lang/rust - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/angular/angular</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T02:26:59.813Z</news:publication_date>
+      <news:title>angular/angular - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
