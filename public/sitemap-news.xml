@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-14T19:26:23.396Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+      <news:publication_date>2026-05-16T20:10:04.683Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -22,6 +22,17 @@
       </news:publication>
       <news:publication_date>2026-05-15T19:18:53.947Z</news:publication_date>
       <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/ziglang/zig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T11:29:51.329Z</news:publication_date>
+      <news:title>ziglang/zig - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -47,14 +58,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-15T01:40:08.132Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+      <news:publication_date>2026-05-17T02:55:58.209Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T05:15:32.585Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -66,50 +88,6 @@
       </news:publication>
       <news:publication_date>2026-05-15T17:12:55.601Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/topoteretes/cognee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T11:21:30.283Z</news:publication_date>
-      <news:title>topoteretes/cognee - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/clickhouse/clickhouse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T16:42:20.098Z</news:publication_date>
-      <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T21:54:30.740Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/rust-lang/rust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T04:55:43.348Z</news:publication_date>
-      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
