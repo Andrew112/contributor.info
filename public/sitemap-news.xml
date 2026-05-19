@@ -3,25 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-16T20:10:04.683Z</news:publication_date>
-      <news:title>openclaw/openclaw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ziglang/zig</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T11:29:51.329Z</news:publication_date>
-      <news:title>ziglang/zig - Contributor Updates</news:title>
+      <news:publication_date>2026-05-18T05:24:51.439Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,28 +25,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T02:55:58.209Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T05:15:32.585Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/bdougie/contributor.info</loc>
     <news:news>
       <news:publication>
@@ -66,6 +33,39 @@
       </news:publication>
       <news:publication_date>2026-05-17T20:54:42.576Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/blaeck/bankr-0xwork-agent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T05:29:32.969Z</news:publication_date>
+      <news:title>blaeck/bankr-0xwork-agent - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/bossoagent/0xwork-event-listener</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T05:30:33.344Z</news:publication_date>
+      <news:title>bossoagent/0xwork-event-listener - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:36:56.026Z</news:publication_date>
+      <news:title>Ad-Astra-Innovia/frontend - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

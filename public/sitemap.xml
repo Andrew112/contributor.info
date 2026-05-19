@@ -389,19 +389,19 @@
     <loc>https://contributor.info/continuedev/continue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-15T16:13:02.602Z</lastmod>
+    <lastmod>2026-05-18T05:24:51.439Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-15T16:13:02.602Z</lastmod>
+    <lastmod>2026-05-18T05:24:51.439Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-15T16:13:02.602Z</lastmod>
+    <lastmod>2026-05-18T05:24:51.439Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table</loc>
@@ -962,10 +962,22 @@
     <lastmod>2026-05-04T12:56:07.622Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/blaeck/bankr-0xwork-agent</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-18T05:29:32.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/bossoagent/0xwork-event-listener</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-18T05:30:33.344Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-08T02:03:42.611Z</lastmod>
+    <lastmod>2026-05-18T09:36:56.026Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rustam-mkn/openclaw</loc>
