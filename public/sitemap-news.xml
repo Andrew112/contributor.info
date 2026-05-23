@@ -3,25 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-20T07:41:14.669Z</news:publication_date>
-      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/vitejs/vite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T15:41:08.941Z</news:publication_date>
-      <news:title>vitejs/vite - Contributor Updates</news:title>
+      <news:publication_date>2026-05-22T05:24:58.806Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -31,41 +20,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-20T14:14:39.131Z</news:publication_date>
+      <news:publication_date>2026-05-22T13:54:16.835Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/tinyhumansai/openhuman</loc>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-20T16:58:44.860Z</news:publication_date>
-      <news:title>tinyhumansai/openhuman - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/CGCookie/retopoflow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:50:05.567Z</news:publication_date>
-      <news:title>CGCookie/retopoflow - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T15:41:12.024Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+      <news:publication_date>2026-05-22T17:55:58.440Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-20T15:41:03.329Z</news:publication_date>
+      <news:publication_date>2026-05-22T05:42:30.958Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -91,61 +58,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T20:08:57.858Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/lodash/lodash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T17:29:53.796Z</news:publication_date>
-      <news:title>lodash/lodash - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/langchain-ai/langchain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T12:54:15.785Z</news:publication_date>
-      <news:title>langchain-ai/langchain - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/gitnull-dev/gitnull-dev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T15:52:56.977Z</news:publication_date>
-      <news:title>gitnull-dev/gitnull-dev - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pierce403/cheapbugs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T15:37:08.485Z</news:publication_date>
-      <news:title>pierce403/cheapbugs - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/vue/vue</loc>
     <news:news>
       <news:publication>
@@ -157,36 +69,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-20T15:37:09.171Z</news:publication_date>
-      <news:title>JKILLR/0xwork-devkit - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/bossoagent/0xwork-event-listener</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T14:13:13.877Z</news:publication_date>
-      <news:title>bossoagent/0xwork-event-listener - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T22:38:40.908Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
+      <news:publication_date>2026-05-21T20:08:57.858Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
