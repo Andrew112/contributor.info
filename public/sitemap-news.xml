@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T05:24:58.806Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
@@ -36,28 +25,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T17:55:58.440Z</news:publication_date>
-      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T05:42:30.958Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/dlt-hub/dlt</loc>
     <news:news>
       <news:publication>
@@ -77,6 +44,17 @@
       </news:publication>
       <news:publication_date>2026-05-23T20:46:34.008Z</news:publication_date>
       <news:title>rivet-gg/rivetkit - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-24T05:41:24.467Z</news:publication_date>
+      <news:title>BlueMatthew/WechatExporter - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
