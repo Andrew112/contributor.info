@@ -3,47 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/vitejs/vite</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-23T06:11:35.879Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/TanStack/table</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T17:43:02.501Z</news:publication_date>
-      <news:title>TanStack/table - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/dlt-hub/dlt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T08:07:51.754Z</news:publication_date>
-      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/rivet-gg/rivetkit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T20:46:34.008Z</news:publication_date>
-      <news:title>rivet-gg/rivetkit - Contributor Updates</news:title>
+      <news:publication_date>2026-05-25T13:15:49.829Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -55,17 +22,6 @@
       </news:publication>
       <news:publication_date>2026-05-24T05:41:24.467Z</news:publication_date>
       <news:title>BlueMatthew/WechatExporter - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/zulip/zulip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T08:18:24.864Z</news:publication_date>
-      <news:title>zulip/zulip - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
