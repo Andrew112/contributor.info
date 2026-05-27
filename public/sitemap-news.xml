@@ -14,14 +14,36 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
+    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-24T05:41:24.467Z</news:publication_date>
-      <news:title>BlueMatthew/WechatExporter - Contributor Updates</news:title>
+      <news:publication_date>2026-05-26T09:12:34.503Z</news:publication_date>
+      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/grafana/grafana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T06:17:25.847Z</news:publication_date>
+      <news:title>grafana/grafana - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/nestjs/nest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T06:33:40.912Z</news:publication_date>
+      <news:title>nestjs/nest - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
