@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/vitejs/vite</loc>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-25T13:15:49.829Z</news:publication_date>
-      <news:title>vitejs/vite - Contributor Updates</news:title>
+      <news:publication_date>2026-05-27T20:11:28.273Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -20,8 +20,85 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-26T09:12:34.503Z</news:publication_date>
+      <news:publication_date>2026-05-27T09:02:10.970Z</news:publication_date>
       <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/appwrite/appwrite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T15:44:53.215Z</news:publication_date>
+      <news:title>appwrite/appwrite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T16:55:38.417Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/continuedev/continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T11:42:58.425Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/supabase/realtime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T02:12:59.591Z</news:publication_date>
+      <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T21:38:15.764Z</news:publication_date>
+      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T11:45:33.172Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/tensorflow/tensorflow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T18:41:01.460Z</news:publication_date>
+      <news:title>tensorflow/tensorflow - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,6 +113,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/axios/axios</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T16:25:56.672Z</news:publication_date>
+      <news:title>axios/axios - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/nestjs/nest</loc>
     <news:news>
       <news:publication>
@@ -44,6 +132,28 @@
       </news:publication>
       <news:publication_date>2026-05-26T06:33:40.912Z</news:publication_date>
       <news:title>nestjs/nest - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/anthropics/claude-code</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T19:44:14.419Z</news:publication_date>
+      <news:title>anthropics/claude-code - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T15:28:54.030Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
