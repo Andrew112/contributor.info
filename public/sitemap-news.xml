@@ -58,6 +58,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T16:23:43.295Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/supabase/realtime</loc>
     <news:news>
       <news:publication>
@@ -66,6 +77,17 @@
       </news:publication>
       <news:publication_date>2026-05-28T02:12:59.591Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T13:08:56.856Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -102,17 +124,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T06:17:25.847Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/axios/axios</loc>
     <news:news>
       <news:publication>
@@ -124,14 +135,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-26T06:33:40.912Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
+      <news:publication_date>2026-05-28T05:22:58.499Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/shadcn/ui</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T01:19:34.463Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
