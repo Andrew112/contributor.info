@@ -956,12 +956,6 @@
     <lastmod>2026-05-19T06:04:31.803Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/dachosen1/nearquake</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-19T06:08:51.545Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -972,6 +966,12 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T06:00:58.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/dachosen1/nearquake</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-19T06:08:51.545Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/sujithq/myenergy</loc>
@@ -1304,24 +1304,6 @@
     <lastmod>2026-05-19T05:57:50.960Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/facebook/react</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-27T15:28:54.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react/health</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <lastmod>2026-05-27T15:28:54.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react/distribution</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <lastmod>2026-05-27T15:28:54.030Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/rivet-gg/rivetkit</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1332,6 +1314,24 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-20T15:52:56.977Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-29T19:57:21.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react/health</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-29T19:57:21.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react/distribution</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-29T19:57:21.965Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/golang/go</loc>
