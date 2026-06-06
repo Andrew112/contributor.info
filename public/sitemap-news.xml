@@ -25,6 +25,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T12:25:49.093Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
@@ -33,6 +44,17 @@
       </news:publication>
       <news:publication_date>2026-06-04T03:38:03.488Z</news:publication_date>
       <news:title>better-auth/better-auth - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/huggingface/transformers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T15:17:25.685Z</news:publication_date>
+      <news:title>huggingface/transformers - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
