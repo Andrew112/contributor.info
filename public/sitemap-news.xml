@@ -3,25 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <loc>https://contributor.info/torvalds/linux</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-04T13:02:08.223Z</news:publication_date>
-      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+      <news:publication_date>2026-06-06T08:10:40.786Z</news:publication_date>
+      <news:title>torvalds/linux - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ollama/ollama</loc>
+    <loc>https://contributor.info/vercel/next.js</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-04T11:21:14.128Z</news:publication_date>
-      <news:title>ollama/ollama - Contributor Updates</news:title>
+      <news:publication_date>2026-06-06T15:56:44.847Z</news:publication_date>
+      <news:title>vercel/next.js - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,14 +36,36 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-04T03:38:03.488Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+      <news:publication_date>2026-06-06T08:09:51.688Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T19:44:55.157Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/sujithq/myenergy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:27:00.238Z</news:publication_date>
+      <news:title>sujithq/myenergy - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -55,17 +77,6 @@
       </news:publication>
       <news:publication_date>2026-06-05T15:17:25.685Z</news:publication_date>
       <news:title>huggingface/transformers - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/dlt-hub/dlt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T10:27:34.579Z</news:publication_date>
-      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
