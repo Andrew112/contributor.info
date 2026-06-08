@@ -14,6 +14,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/microsoft/vscode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T16:48:05.487Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/vercel/next.js</loc>
     <news:news>
       <news:publication>
@@ -22,17 +33,6 @@
       </news:publication>
       <news:publication_date>2026-06-06T15:56:44.847Z</news:publication_date>
       <news:title>vercel/next.js - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T12:25:49.093Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,6 +58,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T21:42:28.677Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/bdougie/contributor.info</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T21:16:19.363Z</news:publication_date>
+      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/sujithq/myenergy</loc>
     <news:news>
       <news:publication>
@@ -69,14 +91,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/huggingface/transformers</loc>
+    <loc>https://contributor.info/shadcn/ui</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-05T15:17:25.685Z</news:publication_date>
-      <news:title>huggingface/transformers - Contributor Updates</news:title>
+      <news:publication_date>2026-06-07T14:09:37.967Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

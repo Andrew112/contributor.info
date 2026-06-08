@@ -155,19 +155,19 @@
     <loc>https://contributor.info/microsoft/vscode</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-02T19:56:04.878Z</lastmod>
+    <lastmod>2026-06-07T16:48:05.487Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-02T19:56:04.878Z</lastmod>
+    <lastmod>2026-06-07T16:48:05.487Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-02T19:56:04.878Z</lastmod>
+    <lastmod>2026-06-07T16:48:05.487Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama</loc>
@@ -821,19 +821,19 @@
     <loc>https://contributor.info/papercomputeco/stereOS</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-27T11:45:33.172Z</lastmod>
+    <lastmod>2026-06-07T21:42:28.677Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/stereOS/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-27T11:45:33.172Z</lastmod>
+    <lastmod>2026-06-07T21:42:28.677Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/stereOS/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-27T11:45:33.172Z</lastmod>
+    <lastmod>2026-06-07T21:42:28.677Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/tapes</loc>
@@ -941,7 +941,7 @@
     <loc>https://contributor.info/bdougie/contributor.info</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-21T21:01:01.988Z</lastmod>
+    <lastmod>2026-06-07T21:16:19.363Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Bridgetamana/pixlated</loc>
@@ -1301,7 +1301,7 @@
     <loc>https://contributor.info/shadcn/ui</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-29T01:19:34.463Z</lastmod>
+    <lastmod>2026-06-07T14:09:37.967Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anthropics/claude-code</loc>
