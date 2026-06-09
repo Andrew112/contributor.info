@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/torvalds/linux</loc>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-06T08:10:40.786Z</news:publication_date>
-      <news:title>torvalds/linux - Contributor Updates</news:title>
+      <news:publication_date>2026-06-08T03:59:31.283Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,36 +25,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/vercel/next.js</loc>
+    <loc>https://contributor.info/kubernetes/kubernetes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-06T15:56:44.847Z</news:publication_date>
-      <news:title>vercel/next.js - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T08:09:51.688Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T19:44:55.157Z</news:publication_date>
-      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
+      <news:publication_date>2026-06-08T23:32:44.798Z</news:publication_date>
+      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -69,6 +47,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/husamql3/pstrack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T10:26:01.882Z</news:publication_date>
+      <news:title>husamql3/pstrack - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/bdougie/contributor.info</loc>
     <news:news>
       <news:publication>
@@ -80,14 +69,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/myenergy</loc>
+    <loc>https://contributor.info/duckdb/duckdb</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-07T00:27:00.238Z</news:publication_date>
-      <news:title>sujithq/myenergy - Contributor Updates</news:title>
+      <news:publication_date>2026-06-09T01:49:06.838Z</news:publication_date>
+      <news:title>duckdb/duckdb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/axios/axios</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T19:36:12.861Z</news:publication_date>
+      <news:title>axios/axios - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
