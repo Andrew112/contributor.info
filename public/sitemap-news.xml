@@ -14,17 +14,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T16:48:05.487Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/kubernetes/kubernetes</loc>
     <news:news>
       <news:publication>
@@ -36,14 +25,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-07T21:42:28.677Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+      <news:publication_date>2026-06-09T09:06:15.645Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -55,17 +44,6 @@
       </news:publication>
       <news:publication_date>2026-06-08T10:26:01.882Z</news:publication_date>
       <news:title>husamql3/pstrack - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/bdougie/contributor.info</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T21:16:19.363Z</news:publication_date>
-      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -88,17 +66,6 @@
       </news:publication>
       <news:publication_date>2026-06-08T19:36:12.861Z</news:publication_date>
       <news:title>axios/axios - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/shadcn/ui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T14:09:37.967Z</news:publication_date>
-      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
