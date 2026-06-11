@@ -3,25 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <loc>https://contributor.info/microsoft/vscode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T03:59:31.283Z</news:publication_date>
-      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+      <news:publication_date>2026-06-10T16:03:00.610Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T23:32:44.798Z</news:publication_date>
-      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
+      <news:publication_date>2026-06-10T12:22:44.908Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,36 +36,36 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/husamql3/pstrack</loc>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T10:26:01.882Z</news:publication_date>
-      <news:title>husamql3/pstrack - Contributor Updates</news:title>
+      <news:publication_date>2026-06-10T05:58:25.796Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/duckdb/duckdb</loc>
+    <loc>https://contributor.info/cline/cline</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-09T01:49:06.838Z</news:publication_date>
-      <news:title>duckdb/duckdb - Contributor Updates</news:title>
+      <news:publication_date>2026-06-10T18:40:19.345Z</news:publication_date>
+      <news:title>cline/cline - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/axios/axios</loc>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T19:36:12.861Z</news:publication_date>
-      <news:title>axios/axios - Contributor Updates</news:title>
+      <news:publication_date>2026-06-10T16:19:41.985Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
