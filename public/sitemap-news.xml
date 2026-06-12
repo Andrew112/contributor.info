@@ -31,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-09T09:06:15.645Z</news:publication_date>
+      <news:publication_date>2026-06-11T20:45:06.778Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -47,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/cline/cline</loc>
+    <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10T18:40:19.345Z</news:publication_date>
-      <news:title>cline/cline - Contributor Updates</news:title>
+      <news:publication_date>2026-06-11T23:38:56.202Z</news:publication_date>
+      <news:title>jargonsdev/jargons.dev - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -66,6 +66,17 @@
       </news:publication>
       <news:publication_date>2026-06-10T16:19:41.985Z</news:publication_date>
       <news:title>prometheus/prometheus - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/cline/cline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T18:40:19.345Z</news:publication_date>
+      <news:title>cline/cline - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
