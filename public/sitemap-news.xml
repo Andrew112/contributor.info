@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ziglang/zig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T10:11:35.678Z</news:publication_date>
+      <news:title>ziglang/zig - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-11T20:45:06.778Z</news:publication_date>
+      <news:publication_date>2026-06-13T09:35:17.180Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -20,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-12T10:58:34.778Z</news:publication_date>
+      <news:publication_date>2026-06-13T08:12:06.371Z</news:publication_date>
       <news:title>argoproj/argo-cd - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -33,17 +44,6 @@
       </news:publication>
       <news:publication_date>2026-06-12T19:35:54.378Z</news:publication_date>
       <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T23:38:56.202Z</news:publication_date>
-      <news:title>jargonsdev/jargons.dev - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
