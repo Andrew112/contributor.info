@@ -14,36 +14,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ziglang/zig</loc>
+    <loc>https://contributor.info/atuinsh/desktop</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-13T10:11:35.678Z</news:publication_date>
-      <news:title>ziglang/zig - Contributor Updates</news:title>
+      <news:publication_date>2026-06-15T19:13:41.185Z</news:publication_date>
+      <news:title>atuinsh/desktop - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/topoteretes/cognee</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-13T09:35:17.180Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/argoproj/argo-cd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T08:12:06.371Z</news:publication_date>
-      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
+      <news:publication_date>2026-06-15T23:22:04.216Z</news:publication_date>
+      <news:title>topoteretes/cognee - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
