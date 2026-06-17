@@ -3,14 +3,47 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-14T11:32:43.835Z</news:publication_date>
-      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+      <news:publication_date>2026-06-16T05:48:08.883Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T08:08:46.648Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vercel/ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T01:50:44.958Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T00:47:44.873Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,6 +58,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T11:44:04.006Z</news:publication_date>
+      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/dachosen1/nearquake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:46:28.653Z</news:publication_date>
+      <news:title>dachosen1/nearquake - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/topoteretes/cognee</loc>
     <news:news>
       <news:publication>
@@ -33,6 +88,39 @@
       </news:publication>
       <news:publication_date>2026-06-15T23:22:04.216Z</news:publication_date>
       <news:title>topoteretes/cognee - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pytorch/pytorch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:46:49.946Z</news:publication_date>
+      <news:title>pytorch/pytorch - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/rust-lang/rust</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T18:16:29.623Z</news:publication_date>
+      <news:title>rust-lang/rust - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/clickhouse/clickhouse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:05:02.212Z</news:publication_date>
+      <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
