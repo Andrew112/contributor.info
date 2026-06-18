@@ -20,7 +20,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-16T08:08:46.648Z</news:publication_date>
+      <news:publication_date>2026-06-17T10:14:18.594Z</news:publication_date>
       <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -47,17 +47,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/desktop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T19:13:41.185Z</news:publication_date>
-      <news:title>atuinsh/desktop - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/papercomputeco/masterblaster</loc>
     <news:news>
       <news:publication>
@@ -80,17 +69,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/topoteretes/cognee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T23:22:04.216Z</news:publication_date>
-      <news:title>topoteretes/cognee - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/pytorch/pytorch</loc>
     <news:news>
       <news:publication>
@@ -110,6 +88,28 @@
       </news:publication>
       <news:publication_date>2026-06-16T18:16:29.623Z</news:publication_date>
       <news:title>rust-lang/rust - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/angular/angular</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T19:26:29.994Z</news:publication_date>
+      <news:title>angular/angular - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/anthropics/claude-code</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T12:40:20.858Z</news:publication_date>
+      <news:title>anthropics/claude-code - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
