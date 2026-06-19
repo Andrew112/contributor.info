@@ -389,19 +389,19 @@
     <loc>https://contributor.info/fastify/fastify</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:01:05.946Z</lastmod>
+    <lastmod>2026-06-18T18:57:58.043Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/fastify/fastify/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:01:05.946Z</lastmod>
+    <lastmod>2026-06-18T18:57:58.043Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/fastify/fastify/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:01:05.946Z</lastmod>
+    <lastmod>2026-06-18T18:57:58.043Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue</loc>
@@ -944,16 +944,16 @@
     <lastmod>2026-06-07T21:16:19.363Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/mautic/user-documentation</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-19T06:01:31.028Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/Bridgetamana/pixlated</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T06:08:29.644Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-19T06:01:31.028Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/devanshi14malhotra/GitCanvas</loc>
@@ -965,7 +965,7 @@
     <loc>https://contributor.info/grenzbotin/strapi-llm-translator</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-19T15:46:53.478Z</lastmod>
+    <lastmod>2026-06-18T16:54:06.676Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/sujithq/sujithq</loc>
@@ -1019,25 +1019,19 @@
     <loc>https://contributor.info/pytorch/pytorch</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-16T05:46:49.946Z</lastmod>
+    <lastmod>2026-06-19T01:28:48.980Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pytorch/pytorch/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-16T05:46:49.946Z</lastmod>
+    <lastmod>2026-06-19T01:28:48.980Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pytorch/pytorch/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-16T05:46:49.946Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
+    <lastmod>2026-06-19T01:28:48.980Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Supabase/supabase</loc>
@@ -1046,10 +1040,10 @@
     <lastmod>2026-05-19T06:08:12.146Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
+    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
+    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/moment/moment</loc>
@@ -1076,10 +1070,22 @@
     <lastmod>2026-05-19T06:08:11.361Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/bossoagent/0xwork-event-listener</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-20T14:13:13.877Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/excalidraw/excalidraw</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-18T08:33:27.124Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/grafana/grafana</loc>
@@ -1098,12 +1104,6 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-05-26T06:17:25.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/excalidraw/excalidraw</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-12T12:20:08.151Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/huggingface/transformers</loc>
