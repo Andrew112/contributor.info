@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T10:14:18.594Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/fastify/fastify</loc>
     <news:news>
       <news:publication>
@@ -25,13 +14,24 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T05:41:36.232Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/grenzbotin/strapi-llm-translator</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-18T16:54:06.676Z</news:publication_date>
+      <news:publication_date>2026-06-19T19:30:15.043Z</news:publication_date>
       <news:title>grenzbotin/strapi-llm-translator - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -55,28 +55,6 @@
       </news:publication>
       <news:publication_date>2026-06-18T08:33:27.124Z</news:publication_date>
       <news:title>excalidraw/excalidraw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/angular/angular</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T19:26:29.994Z</news:publication_date>
-      <news:title>angular/angular - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/anthropics/claude-code</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T12:40:20.858Z</news:publication_date>
-      <news:title>anthropics/claude-code - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
