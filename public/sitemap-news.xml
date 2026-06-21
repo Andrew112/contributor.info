@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/fastify/fastify</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-18T18:57:58.043Z</news:publication_date>
-      <news:title>fastify/fastify - Contributor Updates</news:title>
+      <news:publication_date>2026-06-20T15:43:40.109Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,25 +36,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pytorch/pytorch</loc>
+    <loc>https://contributor.info/expressjs/express</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-19T01:28:48.980Z</news:publication_date>
-      <news:title>pytorch/pytorch - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/excalidraw/excalidraw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T08:33:27.124Z</news:publication_date>
-      <news:title>excalidraw/excalidraw - Contributor Updates</news:title>
+      <news:publication_date>2026-06-20T16:04:00.021Z</news:publication_date>
+      <news:title>expressjs/express - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
