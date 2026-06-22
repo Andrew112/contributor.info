@@ -14,28 +14,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T05:41:36.232Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/grenzbotin/strapi-llm-translator</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T19:30:15.043Z</news:publication_date>
-      <news:title>grenzbotin/strapi-llm-translator - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/expressjs/express</loc>
     <news:news>
       <news:publication>
@@ -44,6 +22,17 @@
       </news:publication>
       <news:publication_date>2026-06-20T16:04:00.021Z</news:publication_date>
       <news:title>expressjs/express - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/duckdb/duckdb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T11:38:49.336Z</news:publication_date>
+      <news:title>duckdb/duckdb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
