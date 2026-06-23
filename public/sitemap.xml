@@ -515,19 +515,19 @@
     <loc>https://contributor.info/pgvector/pgvector</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:02:30.853Z</lastmod>
+    <lastmod>2026-06-22T18:24:26.504Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pgvector/pgvector/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:02:30.853Z</lastmod>
+    <lastmod>2026-06-22T18:24:26.504Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pgvector/pgvector/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T06:02:30.853Z</lastmod>
+    <lastmod>2026-06-22T18:24:26.504Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/better-auth/better-auth</loc>
@@ -677,19 +677,19 @@
     <loc>https://contributor.info/CGCookie/retopoflow</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-20T06:50:05.567Z</lastmod>
+    <lastmod>2026-06-22T10:20:32.610Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/CGCookie/retopoflow/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-20T06:50:05.567Z</lastmod>
+    <lastmod>2026-06-22T10:20:32.610Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/CGCookie/retopoflow/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-20T06:50:05.567Z</lastmod>
+    <lastmod>2026-06-22T10:20:32.610Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/atuinsh/desktop</loc>
@@ -1205,7 +1205,7 @@
     <loc>https://contributor.info/pingcap/tidb</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-19T06:07:05.725Z</lastmod>
+    <lastmod>2026-06-22T09:28:21.107Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/dlt-hub/dlt</loc>
@@ -1238,12 +1238,6 @@
     <lastmod>2026-05-04T12:55:14.911Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/lodash/lodash</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-20T17:29:53.796Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/facebook/docusaurus</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1254,6 +1248,12 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-06-12T15:53:23.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/lodash/lodash</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-22T18:59:47.091Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anthropics/claude-code</loc>

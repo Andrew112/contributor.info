@@ -3,25 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-20T15:43:40.109Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
+      <news:publication_date>2026-06-22T18:24:26.504Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/expressjs/express</loc>
+    <loc>https://contributor.info/CGCookie/retopoflow</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-20T16:04:00.021Z</news:publication_date>
-      <news:title>expressjs/express - Contributor Updates</news:title>
+      <news:publication_date>2026-06-22T10:20:32.610Z</news:publication_date>
+      <news:title>CGCookie/retopoflow - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -33,6 +33,28 @@
       </news:publication>
       <news:publication_date>2026-06-21T11:38:49.336Z</news:publication_date>
       <news:title>duckdb/duckdb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pingcap/tidb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T09:28:21.107Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/lodash/lodash</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T18:59:47.091Z</news:publication_date>
+      <news:title>lodash/lodash - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
