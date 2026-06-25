@@ -155,19 +155,19 @@
     <loc>https://contributor.info/microsoft/vscode</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-10T16:03:00.610Z</lastmod>
+    <lastmod>2026-06-24T16:40:07.647Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-10T16:03:00.610Z</lastmod>
+    <lastmod>2026-06-24T16:40:07.647Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-10T16:03:00.610Z</lastmod>
+    <lastmod>2026-06-24T16:40:07.647Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama</loc>
@@ -1166,16 +1166,16 @@
     <lastmod>2026-06-20T16:04:00.021Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/zulip/zulip</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-23T08:18:24.864Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/supabase/supabase</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T06:08:11.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/zulip/zulip</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-24T10:12:10.915Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pierce403/cheapbugs</loc>
@@ -1343,7 +1343,7 @@
     <loc>https://contributor.info/dlt-hub/dlt</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-04T10:27:34.579Z</lastmod>
+    <lastmod>2026-06-24T06:47:07.101Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rustam-mkn/openclaw</loc>

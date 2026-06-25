@@ -14,6 +14,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/microsoft/vscode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T16:40:07.647Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/vitejs/vite</loc>
     <news:news>
       <news:publication>
@@ -44,17 +55,6 @@
       </news:publication>
       <news:publication_date>2026-06-23T12:11:53.879Z</news:publication_date>
       <news:title>argoproj/argo-cd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T18:24:26.504Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -102,6 +102,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/zulip/zulip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T10:12:10.915Z</news:publication_date>
+      <news:title>zulip/zulip - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/nestjs/nest</loc>
     <news:news>
       <news:publication>
@@ -113,14 +124,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
+    <loc>https://contributor.info/dlt-hub/dlt</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-22T09:28:21.107Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
+      <news:publication_date>2026-06-24T06:47:07.101Z</news:publication_date>
+      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
