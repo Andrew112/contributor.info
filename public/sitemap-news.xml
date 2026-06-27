@@ -3,25 +3,58 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/torvalds/linux</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T20:48:49.164Z</news:publication_date>
+      <news:title>torvalds/linux - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/openclaw/openclaw</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-25T03:48:34.315Z</news:publication_date>
+      <news:publication_date>2026-06-26T14:33:57.532Z</news:publication_date>
       <news:title>openclaw/openclaw - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
+    <loc>https://contributor.info/react/react-native</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-24T16:40:07.647Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
+      <news:publication_date>2026-06-26T20:48:46.349Z</news:publication_date>
+      <news:title>react/react-native - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T12:45:57.689Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vitejs/vite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T20:47:38.413Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -33,28 +66,6 @@
       </news:publication>
       <news:publication_date>2026-06-26T01:48:13.074Z</news:publication_date>
       <news:title>better-auth/better-auth - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/zulip/zulip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T10:12:10.915Z</news:publication_date>
-      <news:title>zulip/zulip - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/dlt-hub/dlt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T06:47:07.101Z</news:publication_date>
-      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
