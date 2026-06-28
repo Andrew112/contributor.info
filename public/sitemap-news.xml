@@ -25,6 +25,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T07:42:34.130Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/react/react-native</loc>
     <news:news>
       <news:publication>
@@ -53,19 +64,30 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-26T20:47:38.413Z</news:publication_date>
+      <news:publication_date>2026-06-27T20:57:09.702Z</news:publication_date>
       <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-26T01:48:13.074Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+      <news:publication_date>2026-06-27T20:09:05.065Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T08:12:30.891Z</news:publication_date>
+      <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
