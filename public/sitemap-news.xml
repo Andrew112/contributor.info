@@ -3,25 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <loc>https://contributor.info/react/react</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-27T07:42:34.130Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/vitejs/vite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T20:57:09.702Z</news:publication_date>
-      <news:title>vitejs/vite - Contributor Updates</news:title>
+      <news:publication_date>2026-06-29T03:43:43.919Z</news:publication_date>
+      <news:title>react/react - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,14 +25,47 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-27T20:09:05.065Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+      <news:publication_date>2026-06-29T03:41:10.718Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vercel/ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T22:58:56.286Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T03:37:02.623Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T06:30:04.068Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,14 +80,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <loc>https://contributor.info/pytorch/pytorch</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-27T08:12:30.891Z</news:publication_date>
-      <news:title>mautic/user-documentation - Contributor Updates</news:title>
+      <news:publication_date>2026-06-29T18:46:21.672Z</news:publication_date>
+      <news:title>pytorch/pytorch - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T03:43:43.238Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
