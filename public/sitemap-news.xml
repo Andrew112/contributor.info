@@ -9,19 +9,30 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-29T03:43:43.919Z</news:publication_date>
+      <news:publication_date>2026-06-30T04:59:56.485Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/appwrite/appwrite</loc>
+    <loc>https://contributor.info/microsoft/vscode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-28T21:07:20.659Z</news:publication_date>
-      <news:title>appwrite/appwrite - Contributor Updates</news:title>
+      <news:publication_date>2026-06-30T04:23:25.864Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T16:19:05.397Z</news:publication_date>
+      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-29T22:58:56.286Z</news:publication_date>
+      <news:publication_date>2026-06-30T15:09:09.277Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,19 +75,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-29T06:30:04.068Z</news:publication_date>
+      <news:publication_date>2026-06-30T04:22:37.787Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/bdougie/contributor.info</loc>
+    <loc>https://contributor.info/facebook/react</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-28T21:50:23.042Z</news:publication_date>
-      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
+      <news:publication_date>2026-06-30T04:59:57.266Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -88,17 +99,6 @@
       </news:publication>
       <news:publication_date>2026-06-29T18:46:21.672Z</news:publication_date>
       <news:title>pytorch/pytorch - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T03:43:43.238Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
