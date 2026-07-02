@@ -36,17 +36,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T03:41:10.718Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/vercel/ai</loc>
     <news:news>
       <news:publication>
@@ -58,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-29T03:37:02.623Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+      <news:publication_date>2026-07-01T15:30:57.233Z</news:publication_date>
+      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -88,17 +77,6 @@
       </news:publication>
       <news:publication_date>2026-06-30T04:59:57.266Z</news:publication_date>
       <news:title>facebook/react - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pytorch/pytorch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T18:46:21.672Z</news:publication_date>
-      <news:title>pytorch/pytorch - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
