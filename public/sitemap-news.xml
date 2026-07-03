@@ -3,47 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/react/react</loc>
+    <loc>https://contributor.info/atuinsh/atuin</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-30T04:59:56.485Z</news:publication_date>
-      <news:title>react/react - Contributor Updates</news:title>
+      <news:publication_date>2026-07-03T01:14:31.123Z</news:publication_date>
+      <news:title>atuinsh/atuin - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-30T04:23:25.864Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/kubernetes/kubernetes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T16:19:05.397Z</news:publication_date>
-      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/vercel/ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T15:09:09.277Z</news:publication_date>
-      <news:title>vercel/ai - Contributor Updates</news:title>
+      <news:publication_date>2026-07-02T08:04:56.173Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,25 +36,36 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-30T04:22:37.787Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+      <news:publication_date>2026-07-02T13:15:41.444Z</news:publication_date>
+      <news:title>Bridgetamana/pixlated - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/facebook/react</loc>
+    <loc>https://contributor.info/Iam-Karan-Suresh/kestra</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-30T04:59:57.266Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
+      <news:publication_date>2026-07-02T13:54:26.045Z</news:publication_date>
+      <news:title>Iam-Karan-Suresh/kestra - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pingcap/tidb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T19:09:13.742Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
