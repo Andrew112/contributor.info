@@ -3,6 +3,28 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ziglang/zig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T03:31:01.732Z</news:publication_date>
+      <news:title>ziglang/zig - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TanStack/table</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T23:52:16.460Z</news:publication_date>
+      <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/atuinsh/atuin</loc>
     <news:news>
       <news:publication>
@@ -11,6 +33,17 @@
       </news:publication>
       <news:publication_date>2026-07-03T01:14:31.123Z</news:publication_date>
       <news:title>atuinsh/atuin - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T16:49:43.611Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,17 +58,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T15:30:57.233Z</news:publication_date>
-      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/Bridgetamana/pixlated</loc>
     <news:news>
       <news:publication>
@@ -47,6 +69,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/golang/go</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T19:37:10.082Z</news:publication_date>
+      <news:title>golang/go - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/Iam-Karan-Suresh/kestra</loc>
     <news:news>
       <news:publication>
@@ -55,6 +88,17 @@
       </news:publication>
       <news:publication_date>2026-07-02T13:54:26.045Z</news:publication_date>
       <news:title>Iam-Karan-Suresh/kestra - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/rust-lang/rust</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T17:10:29.429Z</news:publication_date>
+      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
