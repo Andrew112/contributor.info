@@ -3,6 +3,17 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ollama/ollama</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T08:23:49.750Z</news:publication_date>
+      <news:title>ollama/ollama - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/ziglang/zig</loc>
     <news:news>
       <news:publication>
@@ -25,17 +36,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/atuin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T01:14:31.123Z</news:publication_date>
-      <news:title>atuinsh/atuin - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <news:news>
       <news:publication>
@@ -47,25 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-02T08:04:56.173Z</news:publication_date>
-      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T13:15:41.444Z</news:publication_date>
-      <news:title>Bridgetamana/pixlated - Contributor Updates</news:title>
+      <news:publication_date>2026-07-04T09:24:31.361Z</news:publication_date>
+      <news:title>AAChartModel/AAChartCore-Kotlin - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -80,17 +69,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Iam-Karan-Suresh/kestra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T13:54:26.045Z</news:publication_date>
-      <news:title>Iam-Karan-Suresh/kestra - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/rust-lang/rust</loc>
     <news:news>
       <news:publication>
@@ -99,17 +77,6 @@
       </news:publication>
       <news:publication_date>2026-07-03T17:10:29.429Z</news:publication_date>
       <news:title>rust-lang/rust - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T19:09:13.742Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
