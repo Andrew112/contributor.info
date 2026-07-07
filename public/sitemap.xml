@@ -137,19 +137,19 @@
     <loc>https://contributor.info/openclaw/openclaw</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-26T14:33:57.532Z</lastmod>
+    <lastmod>2026-07-06T21:11:11.327Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/openclaw/openclaw/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-26T14:33:57.532Z</lastmod>
+    <lastmod>2026-07-06T21:11:11.327Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/openclaw/openclaw/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-26T14:33:57.532Z</lastmod>
+    <lastmod>2026-07-06T21:11:11.327Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode</loc>
@@ -659,19 +659,19 @@
     <loc>https://contributor.info/apache/maven</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T05:57:28.666Z</lastmod>
+    <lastmod>2026-07-07T01:14:36.569Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/apache/maven/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T05:57:28.666Z</lastmod>
+    <lastmod>2026-07-07T01:14:36.569Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/apache/maven/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-19T05:57:28.666Z</lastmod>
+    <lastmod>2026-07-07T01:14:36.569Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/JabRef/jabref</loc>
@@ -1148,16 +1148,16 @@
     <lastmod>2026-06-20T16:04:00.021Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/supabase/supabase</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-19T06:08:11.361Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/zulip/zulip</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-06-24T10:12:10.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/supabase/supabase</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-07-06T21:37:28.954Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
@@ -1247,7 +1247,7 @@
     <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-19T06:09:20.124Z</lastmod>
+    <lastmod>2026-07-07T04:31:27.925Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/nestjs/nest</loc>
