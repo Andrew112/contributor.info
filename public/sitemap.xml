@@ -443,19 +443,19 @@
     <loc>https://contributor.info/TanStack/table</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T23:52:16.460Z</lastmod>
+    <lastmod>2026-07-09T19:24:07.452Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T23:52:16.460Z</lastmod>
+    <lastmod>2026-07-09T19:24:07.452Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T23:52:16.460Z</lastmod>
+    <lastmod>2026-07-09T19:24:07.452Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/atuinsh/atuin</loc>
@@ -1202,28 +1202,28 @@
     <lastmod>2026-05-23T20:46:34.008Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/clickhouse/clickhouse</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-16T05:05:02.212Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/golang/go</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-07-03T19:37:10.082Z</lastmod>
+    <lastmod>2026-07-09T14:29:32.180Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/golang/go/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T19:37:10.082Z</lastmod>
+    <lastmod>2026-07-09T14:29:32.180Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/golang/go/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T19:37:10.082Z</lastmod>
+    <lastmod>2026-07-09T14:29:32.180Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/clickhouse/clickhouse</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-16T05:05:02.212Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/terraform-providers/terraform-provider-aws</loc>
@@ -1403,7 +1403,7 @@
     <loc>https://contributor.info/pingcap/tidb</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-07-02T19:09:13.742Z</lastmod>
+    <lastmod>2026-07-09T14:42:43.185Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/dlt-hub/dlt</loc>
