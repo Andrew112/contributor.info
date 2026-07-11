@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T19:22:28.681Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/TanStack/table</loc>
     <news:news>
       <news:publication>
@@ -25,36 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-08T15:12:59.417Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T16:02:53.297Z</news:publication_date>
-      <news:title>BH3Panzer/leaf-project - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/tensorflow/tensorflow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T12:37:29.247Z</news:publication_date>
-      <news:title>tensorflow/tensorflow - Contributor Updates</news:title>
+      <news:publication_date>2026-07-10T08:22:22.154Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
