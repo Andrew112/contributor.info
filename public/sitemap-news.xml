@@ -3,14 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/TanStack/table</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-09T19:24:07.452Z</news:publication_date>
-      <news:title>TanStack/table - Contributor Updates</news:title>
+      <news:publication_date>2026-07-12T00:21:10.287Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vitejs/vite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T23:30:18.243Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/continuedev/continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T23:30:05.046Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,25 +47,58 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/golang/go</loc>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-09T14:29:32.180Z</news:publication_date>
-      <news:title>golang/go - Contributor Updates</news:title>
+      <news:publication_date>2026-07-11T14:36:32.083Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-09T14:42:43.185Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
+      <news:publication_date>2026-07-11T11:22:14.258Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T12:07:40.725Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:33:17.380Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T23:30:11.312Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
