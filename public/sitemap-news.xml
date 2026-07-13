@@ -9,7 +9,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-12T00:21:10.287Z</news:publication_date>
+      <news:publication_date>2026-07-12T23:48:14.890Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -25,6 +25,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T04:38:20.920Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
@@ -36,24 +47,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T08:22:22.154Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T14:36:32.083Z</news:publication_date>
+      <news:publication_date>2026-07-13T04:38:27.506Z</news:publication_date>
       <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-12T00:33:17.380Z</news:publication_date>
+      <news:publication_date>2026-07-12T19:50:23.480Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -99,6 +99,17 @@
       </news:publication>
       <news:publication_date>2026-07-11T23:30:11.312Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/zml/zml</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T02:37:57.717Z</news:publication_date>
+      <news:title>zml/zml - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
