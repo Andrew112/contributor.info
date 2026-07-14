@@ -3,25 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T05:59:56.705Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T16:05:57.114Z</news:publication_date>
+      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-12T23:48:14.890Z</news:publication_date>
+      <news:publication_date>2026-07-14T01:48:03.586Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/vitejs/vite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T23:30:18.243Z</news:publication_date>
-      <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T23:30:05.046Z</news:publication_date>
+      <news:publication_date>2026-07-13T15:28:31.051Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -58,14 +69,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <loc>https://contributor.info/PyPSA/PyPSA</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T11:22:14.258Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
+      <news:publication_date>2026-07-13T22:06:53.677Z</news:publication_date>
+      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T12:07:40.725Z</news:publication_date>
+      <news:publication_date>2026-07-13T18:51:30.664Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T23:30:11.312Z</news:publication_date>
+      <news:publication_date>2026-07-13T08:22:44.673Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
