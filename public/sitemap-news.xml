@@ -31,19 +31,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-14T01:48:03.586Z</news:publication_date>
+      <news:publication_date>2026-07-14T15:26:09.276Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T04:38:20.920Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -55,17 +44,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T15:28:31.051Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T04:38:27.506Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -91,17 +69,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T19:50:23.480Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
@@ -113,14 +80,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/zml/zml</loc>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T02:37:57.717Z</news:publication_date>
-      <news:title>zml/zml - Contributor Updates</news:title>
+      <news:publication_date>2026-07-14T18:51:37.116Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
