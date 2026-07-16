@@ -9,19 +9,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T05:59:56.705Z</news:publication_date>
+      <news:publication_date>2026-07-15T08:40:50.751Z</news:publication_date>
       <news:title>openclaw/openclaw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/kubernetes/kubernetes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T16:05:57.114Z</news:publication_date>
-      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -31,52 +20,30 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-14T15:26:09.276Z</news:publication_date>
+      <news:publication_date>2026-07-15T22:21:39.897Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T15:28:31.051Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
+      <news:publication_date>2026-07-15T18:39:59.436Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/PyPSA/PyPSA</loc>
+    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T22:06:53.677Z</news:publication_date>
-      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T18:51:30.664Z</news:publication_date>
-      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T08:22:44.673Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+      <news:publication_date>2026-07-15T08:40:52.673Z</news:publication_date>
+      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
