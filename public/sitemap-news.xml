@@ -20,7 +20,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-15T22:21:39.897Z</news:publication_date>
+      <news:publication_date>2026-07-16T17:15:57.975Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -47,14 +47,36 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
+    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-14T18:51:37.116Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
+      <news:publication_date>2026-07-17T04:55:37.398Z</news:publication_date>
+      <news:title>ArshadMahalkari/StockApp - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/shadcn/ui</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T19:24:21.730Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T06:34:54.958Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

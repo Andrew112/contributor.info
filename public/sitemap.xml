@@ -281,19 +281,19 @@
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-15T22:21:39.897Z</lastmod>
+    <lastmod>2026-07-16T17:15:57.975Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anomalyco/opencode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-15T22:21:39.897Z</lastmod>
+    <lastmod>2026-07-16T17:15:57.975Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anomalyco/opencode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-15T22:21:39.897Z</lastmod>
+    <lastmod>2026-07-16T17:15:57.975Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/vitejs/vite</loc>
@@ -1013,7 +1013,7 @@
     <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-19T06:00:00.373Z</lastmod>
+    <lastmod>2026-07-17T04:55:37.398Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ClickHouse/ClickHouse</loc>
@@ -1127,25 +1127,25 @@
     <loc>https://contributor.info/shadcn/ui</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-07T14:09:37.967Z</lastmod>
+    <lastmod>2026-07-16T19:24:21.730Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/facebook/react</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-30T04:59:57.266Z</lastmod>
+    <lastmod>2026-07-16T06:34:54.958Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/facebook/react/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-30T04:59:57.266Z</lastmod>
+    <lastmod>2026-07-16T06:34:54.958Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/facebook/react/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-30T04:59:57.266Z</lastmod>
+    <lastmod>2026-07-16T06:34:54.958Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/thezaidsheikh/AI-Code-Review</loc>
