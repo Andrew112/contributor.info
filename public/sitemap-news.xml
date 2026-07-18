@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/openclaw/openclaw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T08:40:50.751Z</news:publication_date>
-      <news:title>openclaw/openclaw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
@@ -22,28 +11,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T17:15:57.975Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T18:39:59.436Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T08:40:52.673Z</news:publication_date>
-      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
