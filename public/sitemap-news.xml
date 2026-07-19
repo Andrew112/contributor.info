@@ -3,47 +3,91 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-16T17:15:57.975Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-07-18T14:49:09.818Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-17T04:55:37.398Z</news:publication_date>
-      <news:title>ArshadMahalkari/StockApp - Contributor Updates</news:title>
+      <news:publication_date>2026-07-18T14:49:28.790Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/shadcn/ui</loc>
+    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-16T19:24:21.730Z</news:publication_date>
-      <news:title>shadcn/ui - Contributor Updates</news:title>
+      <news:publication_date>2026-07-18T14:49:14.037Z</news:publication_date>
+      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/facebook/react</loc>
+    <loc>https://contributor.info/Bridgetamana/neobrutal-ui</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-16T06:34:54.958Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
+      <news:publication_date>2026-07-18T05:02:23.501Z</news:publication_date>
+      <news:title>Bridgetamana/neobrutal-ui - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/bdougie/contributor.info</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T14:49:27.943Z</news:publication_date>
+      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/open-sauced/app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T01:54:12.762Z</news:publication_date>
+      <news:title>open-sauced/app - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/moment/moment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T15:32:42.087Z</news:publication_date>
+      <news:title>moment/moment - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/cline/cline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T19:19:13.976Z</news:publication_date>
+      <news:title>cline/cline - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
