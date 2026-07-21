@@ -3,36 +3,47 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-18T14:49:09.818Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+      <news:publication_date>2026-07-20T17:30:28.693Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <loc>https://contributor.info/vitejs/vite</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-18T14:49:28.790Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+      <news:publication_date>2026-07-20T17:30:38.965Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-18T14:49:14.037Z</news:publication_date>
-      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
+      <news:publication_date>2026-07-21T00:07:18.484Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/argoproj/argo-cd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T04:57:31.587Z</news:publication_date>
+      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -47,36 +58,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/open-sauced/app</loc>
+    <loc>https://contributor.info/pingcap/tidb</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-19T01:54:12.762Z</news:publication_date>
-      <news:title>open-sauced/app - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/moment/moment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T15:32:42.087Z</news:publication_date>
-      <news:title>moment/moment - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/cline/cline</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T19:19:13.976Z</news:publication_date>
-      <news:title>cline/cline - Contributor Updates</news:title>
+      <news:publication_date>2026-07-20T14:08:05.259Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
