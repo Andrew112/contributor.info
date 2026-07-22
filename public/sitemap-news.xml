@@ -25,6 +25,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T16:13:52.255Z</news:publication_date>
+      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
@@ -47,14 +58,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/bdougie/contributor.info</loc>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-19T22:00:46.205Z</news:publication_date>
-      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
+      <news:publication_date>2026-07-22T05:18:12.090Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T22:32:21.745Z</news:publication_date>
+      <news:title>atuinsh/desktop - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
