@@ -3,36 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T16:13:52.255Z</news:publication_date>
-      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T05:18:12.090Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/atuinsh/desktop</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-21T22:32:21.745Z</news:publication_date>
+      <news:publication_date>2026-07-23T09:11:16.815Z</news:publication_date>
       <news:title>atuinsh/desktop - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T15:59:56.309Z</news:publication_date>
+      <news:title>AAChartModel/AAChartCore-Kotlin - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
