@@ -695,19 +695,19 @@
     <loc>https://contributor.info/CGCookie/retopoflow</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-23T15:31:26.363Z</lastmod>
+    <lastmod>2026-07-25T00:36:32.407Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/CGCookie/retopoflow/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-23T15:31:26.363Z</lastmod>
+    <lastmod>2026-07-25T00:36:32.407Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/CGCookie/retopoflow/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-23T15:31:26.363Z</lastmod>
+    <lastmod>2026-07-25T00:36:32.407Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/atuinsh/desktop</loc>
@@ -1220,16 +1220,16 @@
     <lastmod>2026-07-09T14:29:32.180Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/clickhouse/clickhouse</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-16T05:05:02.212Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/terraform-providers/terraform-provider-aws</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T06:06:50.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/clickhouse/clickhouse</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-07-24T14:34:49.265Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
