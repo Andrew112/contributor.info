@@ -3,6 +3,28 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T21:55:53.670Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T03:24:09.212Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/CGCookie/retopoflow</loc>
     <news:news>
       <news:publication>
@@ -14,28 +36,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/desktop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T09:11:16.815Z</news:publication_date>
-      <news:title>atuinsh/desktop - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T15:59:56.309Z</news:publication_date>
-      <news:title>AAChartModel/AAChartCore-Kotlin - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/clickhouse/clickhouse</loc>
     <news:news>
       <news:publication>
@@ -44,6 +44,28 @@
       </news:publication>
       <news:publication_date>2026-07-24T14:34:49.265Z</news:publication_date>
       <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/topoteretes/cognee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T13:40:32.781Z</news:publication_date>
+      <news:title>topoteretes/cognee - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/grafana/grafana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T00:06:14.095Z</news:publication_date>
+      <news:title>grafana/grafana - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

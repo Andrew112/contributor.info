@@ -173,19 +173,19 @@
     <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-27T07:42:34.130Z</lastmod>
+    <lastmod>2026-07-25T21:55:53.670Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-27T07:42:34.130Z</lastmod>
+    <lastmod>2026-07-25T21:55:53.670Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-27T07:42:34.130Z</lastmod>
+    <lastmod>2026-07-25T21:55:53.670Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama</loc>
@@ -533,19 +533,19 @@
     <loc>https://contributor.info/pgvector/pgvector</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-10T08:22:22.154Z</lastmod>
+    <lastmod>2026-07-26T03:24:09.212Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pgvector/pgvector/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-10T08:22:22.154Z</lastmod>
+    <lastmod>2026-07-26T03:24:09.212Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pgvector/pgvector/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-10T08:22:22.154Z</lastmod>
+    <lastmod>2026-07-26T03:24:09.212Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/better-auth/better-auth</loc>
@@ -1244,12 +1244,6 @@
     <lastmod>2026-06-23T15:44:22.768Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/topoteretes/cognee</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-15T23:22:04.216Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/pytorch/pytorch</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -1266,6 +1260,12 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-06-29T18:46:21.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/topoteretes/cognee</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-07-25T13:40:32.781Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Supabase/supabase</loc>
@@ -1307,19 +1307,19 @@
     <loc>https://contributor.info/grafana/grafana</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-05-26T06:17:25.847Z</lastmod>
+    <lastmod>2026-07-26T00:06:14.095Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/grafana/grafana/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-26T06:17:25.847Z</lastmod>
+    <lastmod>2026-07-26T00:06:14.095Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/grafana/grafana/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-05-26T06:17:25.847Z</lastmod>
+    <lastmod>2026-07-26T00:06:14.095Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/huggingface/transformers</loc>
