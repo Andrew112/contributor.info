@@ -25,25 +25,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/CGCookie/retopoflow</loc>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-25T00:36:32.407Z</news:publication_date>
-      <news:title>CGCookie/retopoflow - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/clickhouse/clickhouse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T14:34:49.265Z</news:publication_date>
-      <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
+      <news:publication_date>2026-07-26T13:09:56.316Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -64,8 +53,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T00:06:14.095Z</news:publication_date>
+      <news:publication_date>2026-07-26T21:20:33.469Z</news:publication_date>
       <news:title>grafana/grafana - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/rust-lang/rust</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T05:57:11.066Z</news:publication_date>
+      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
