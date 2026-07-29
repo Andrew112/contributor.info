@@ -425,19 +425,19 @@
     <loc>https://contributor.info/continuedev/continue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-21T00:07:18.484Z</lastmod>
+    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-21T00:07:18.484Z</lastmod>
+    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-21T00:07:18.484Z</lastmod>
+    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table</loc>
@@ -605,19 +605,19 @@
     <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T16:49:43.611Z</lastmod>
+    <lastmod>2026-07-29T05:19:35.567Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Kilo-Org/kilocode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T16:49:43.611Z</lastmod>
+    <lastmod>2026-07-29T05:19:35.567Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Kilo-Org/kilocode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-03T16:49:43.611Z</lastmod>
+    <lastmod>2026-07-29T05:19:35.567Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Mail-0/Zero</loc>
@@ -659,19 +659,19 @@
     <loc>https://contributor.info/apache/maven</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-07T08:28:27.621Z</lastmod>
+    <lastmod>2026-07-28T07:19:17.942Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/apache/maven/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-07T08:28:27.621Z</lastmod>
+    <lastmod>2026-07-28T07:19:17.942Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/apache/maven/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-07T08:28:27.621Z</lastmod>
+    <lastmod>2026-07-28T07:19:17.942Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/JabRef/jabref</loc>
@@ -998,16 +998,16 @@
     <lastmod>2026-06-07T00:27:00.238Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/dachosen1/nearquake</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-16T05:46:28.653Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T06:00:58.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/dachosen1/nearquake</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-16T05:46:28.653Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
@@ -1064,12 +1064,6 @@
     <lastmod>2026-05-20T15:37:09.171Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/vue/vue</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-21T21:45:18.889Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/pierce403/cheapbugs</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1080,6 +1074,12 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-07-02T13:54:26.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/vue/vue</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-07-28T14:14:42.073Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/zml/zml</loc>

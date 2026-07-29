@@ -14,6 +14,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/continuedev/continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T02:18:58.714Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T05:19:35.567Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/Mail-0/Zero</loc>
     <news:news>
       <news:publication>
@@ -25,25 +47,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <loc>https://contributor.info/apache/maven</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T13:09:56.316Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
+      <news:publication_date>2026-07-28T07:19:17.942Z</news:publication_date>
+      <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
+    <loc>https://contributor.info/vue/vue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T21:20:33.469Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
+      <news:publication_date>2026-07-28T14:14:42.073Z</news:publication_date>
+      <news:title>vue/vue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -66,17 +88,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T01:01:43.217Z</news:publication_date>
       <news:title>nestjs/nest - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/rust-lang/rust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T05:57:11.066Z</news:publication_date>
-      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
