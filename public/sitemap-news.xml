@@ -3,14 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/vercel/next.js</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-27T18:22:31.458Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-07-29T22:25:08.377Z</news:publication_date>
+      <news:title>vercel/next.js - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T08:51:31.606Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,17 +47,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:50:34.444Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/apache/maven</loc>
     <news:news>
       <news:publication>
@@ -55,6 +55,17 @@
       </news:publication>
       <news:publication_date>2026-07-28T07:19:17.942Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T04:43:02.978Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -69,36 +80,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/excalidraw/excalidraw</loc>
+    <loc>https://contributor.info/grafana/grafana</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-27T11:56:21.356Z</news:publication_date>
-      <news:title>excalidraw/excalidraw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T01:01:43.217Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/angular/angular</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T02:08:22.501Z</news:publication_date>
-      <news:title>angular/angular - Contributor Updates</news:title>
+      <news:publication_date>2026-07-29T09:40:35.719Z</news:publication_date>
+      <news:title>grafana/grafana - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
