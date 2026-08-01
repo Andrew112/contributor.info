@@ -14,17 +14,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/vercel/next.js</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T22:25:08.377Z</news:publication_date>
-      <news:title>vercel/next.js - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
@@ -47,17 +36,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T08:51:31.606Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/numpy/numpy</loc>
     <news:news>
       <news:publication>
@@ -69,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-30T04:43:02.978Z</news:publication_date>
-      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
+      <news:publication_date>2026-08-01T04:59:43.600Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -91,14 +69,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
+    <loc>https://contributor.info/pytorch/pytorch</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-29T09:40:35.719Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
+      <news:publication_date>2026-07-31T08:33:53.506Z</news:publication_date>
+      <news:title>pytorch/pytorch - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -110,6 +88,17 @@
       </news:publication>
       <news:publication_date>2026-07-30T16:03:54.574Z</news:publication_date>
       <news:title>duckdb/duckdb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/angular/angular</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T11:30:15.067Z</news:publication_date>
+      <news:title>angular/angular - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
