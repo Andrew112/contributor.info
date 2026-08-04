@@ -14,25 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/TanStack/table</loc>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-02T00:15:24.790Z</news:publication_date>
-      <news:title>TanStack/table - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/atuinsh/atuin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T22:26:59.731Z</news:publication_date>
-      <news:title>atuinsh/atuin - Contributor Updates</news:title>
+      <news:publication_date>2026-08-03T10:35:38.642Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,30 +31,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-01T20:25:18.086Z</news:publication_date>
+      <news:publication_date>2026-08-03T08:09:04.346Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/bdougie/contributor.info</loc>
+    <loc>https://contributor.info/pingcap/tidb</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-02T01:57:43.301Z</news:publication_date>
-      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:50:57.224Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
+      <news:publication_date>2026-08-03T16:32:07.855Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
