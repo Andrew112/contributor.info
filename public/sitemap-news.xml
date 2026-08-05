@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T04:16:53.619Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
@@ -22,6 +11,28 @@
       </news:publication>
       <news:publication_date>2026-08-03T10:35:38.642Z</news:publication_date>
       <news:title>etcd-io/etcd - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TanStack/table</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T23:43:55.817Z</news:publication_date>
+      <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T14:04:17.918Z</news:publication_date>
+      <news:title>atuinsh/desktop - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -44,6 +55,17 @@
       </news:publication>
       <news:publication_date>2026-08-03T16:32:07.855Z</news:publication_date>
       <news:title>pingcap/tidb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T08:27:14.089Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
