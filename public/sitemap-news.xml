@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T10:35:38.642Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/TanStack/table</loc>
     <news:news>
       <news:publication>
@@ -36,25 +25,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
+    <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-03T08:09:04.346Z</news:publication_date>
-      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T16:32:07.855Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
+      <news:publication_date>2026-08-05T05:45:03.489Z</news:publication_date>
+      <news:title>jargonsdev/jargons.dev - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>

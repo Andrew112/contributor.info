@@ -953,7 +953,7 @@
     <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-11T23:38:56.202Z</lastmod>
+    <lastmod>2026-08-05T05:45:03.489Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rexdivakar/Notifly</loc>
@@ -1016,12 +1016,6 @@
     <lastmod>2026-06-16T05:46:28.653Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-19T06:00:58.924Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1032,6 +1026,12 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-06-07T00:27:00.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-19T06:00:58.924Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/pierce403/cheapbugs</loc>
@@ -1322,16 +1322,16 @@
     <lastmod>2026-05-19T05:57:50.960Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/rexdivakar/HippocampAI</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-19T06:07:05.752Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/gitnull-dev/gitnull-dev</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-20T15:52:56.977Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/rexdivakar/HippocampAI</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-19T06:07:05.752Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rivet-gg/rivetkit</loc>
