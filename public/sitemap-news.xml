@@ -3,6 +3,17 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/fastify/fastify</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T04:51:23.390Z</news:publication_date>
+      <news:title>fastify/fastify - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/atuinsh/desktop</loc>
     <news:news>
       <news:publication>
@@ -11,17 +22,6 @@
       </news:publication>
       <news:publication_date>2026-08-06T19:39:54.868Z</news:publication_date>
       <news:title>atuinsh/desktop - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T05:45:03.489Z</news:publication_date>
-      <news:title>jargonsdev/jargons.dev - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
