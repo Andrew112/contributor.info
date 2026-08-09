@@ -14,14 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <loc>https://contributor.info/grafana/grafana</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-06T19:39:54.868Z</news:publication_date>
-      <news:title>atuinsh/desktop - Contributor Updates</news:title>
+      <news:publication_date>2026-08-08T14:19:10.222Z</news:publication_date>
+      <news:title>grafana/grafana - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
