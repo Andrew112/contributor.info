@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/fastify/fastify</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-07T04:51:23.390Z</news:publication_date>
-      <news:title>fastify/fastify - Contributor Updates</news:title>
+      <news:publication_date>2026-08-10T03:27:18.420Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -22,6 +22,28 @@
       </news:publication>
       <news:publication_date>2026-08-08T14:19:10.222Z</news:publication_date>
       <news:title>grafana/grafana - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TocaiaLd/sustentabilidade-coleta_seletiva</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T18:28:17.417Z</news:publication_date>
+      <news:title>TocaiaLd/sustentabilidade-coleta_seletiva - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pingcap/tidb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T01:16:26.551Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
