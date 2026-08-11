@@ -3,6 +3,17 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/microsoft/vscode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T12:40:12.450Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
@@ -14,14 +25,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-08T14:19:10.222Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
+      <news:publication_date>2026-08-10T17:26:29.635Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>

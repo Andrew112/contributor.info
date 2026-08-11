@@ -155,19 +155,19 @@
     <loc>https://contributor.info/microsoft/vscode</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-08-03T04:16:53.619Z</lastmod>
+    <lastmod>2026-08-10T12:40:12.450Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-03T04:16:53.619Z</lastmod>
+    <lastmod>2026-08-10T12:40:12.450Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-03T04:16:53.619Z</lastmod>
+    <lastmod>2026-08-10T12:40:12.450Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
@@ -443,19 +443,19 @@
     <loc>https://contributor.info/continuedev/continue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
+    <lastmod>2026-08-10T17:26:29.635Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
+    <lastmod>2026-08-10T17:26:29.635Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/continuedev/continue/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-07-29T02:18:58.714Z</lastmod>
+    <lastmod>2026-08-10T17:26:29.635Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table</loc>
