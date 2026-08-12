@@ -14,17 +14,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T03:27:18.420Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
@@ -36,25 +25,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/TocaiaLd/sustentabilidade-coleta_seletiva</loc>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-09T18:28:17.417Z</news:publication_date>
-      <news:title>TocaiaLd/sustentabilidade-coleta_seletiva - Contributor Updates</news:title>
+      <news:publication_date>2026-08-11T18:01:02.348Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
+    <loc>https://contributor.info/facebook/react</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-10T01:16:26.551Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
+      <news:publication_date>2026-08-11T04:44:35.329Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
