@@ -3,25 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-11T18:01:02.348Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T04:44:35.329Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
+      <news:publication_date>2026-08-13T13:11:10.971Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
