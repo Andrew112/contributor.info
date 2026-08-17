@@ -3,17 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/openclaw/openclaw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T23:16:25.314Z</news:publication_date>
-      <news:title>openclaw/openclaw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
     <news:news>
       <news:publication>
@@ -22,17 +11,6 @@
       </news:publication>
       <news:publication_date>2026-08-15T04:14:38.176Z</news:publication_date>
       <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T06:58:24.350Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
