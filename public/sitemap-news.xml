@@ -3,69 +3,47 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-15T04:14:38.176Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+      <news:publication_date>2026-08-18T22:19:18.261Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-16T02:49:59.756Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
+      <news:publication_date>2026-08-18T14:49:25.053Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-15T15:24:48.871Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
+      <news:publication_date>2026-08-19T02:04:38.082Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/moveit/moveit</loc>
+    <loc>https://contributor.info/pytorch/pytorch</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-15T21:06:20.252Z</news:publication_date>
-      <news:title>moveit/moveit - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T02:49:47.279Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T23:01:01.513Z</news:publication_date>
-      <news:title>Bridgetamana/pixlated - Contributor Updates</news:title>
+      <news:publication_date>2026-08-18T16:21:32.778Z</news:publication_date>
+      <news:title>pytorch/pytorch - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
