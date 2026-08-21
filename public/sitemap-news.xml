@@ -3,47 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/PyPSA/PyPSA</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-18T22:19:18.261Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-08-20T21:11:25.480Z</news:publication_date>
+      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <loc>https://contributor.info/bdougie/contributor.info</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-18T14:49:25.053Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+      <news:publication_date>2026-08-20T22:22:28.876Z</news:publication_date>
+      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <loc>https://contributor.info/topoteretes/cognee</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-19T02:04:38.082Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pytorch/pytorch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T16:21:32.778Z</news:publication_date>
-      <news:title>pytorch/pytorch - Contributor Updates</news:title>
+      <news:publication_date>2026-08-20T21:25:24.582Z</news:publication_date>
+      <news:title>topoteretes/cognee - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
