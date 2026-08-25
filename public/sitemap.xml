@@ -983,7 +983,7 @@
     <loc>https://contributor.info/Bridgetamana/neobrutal-ui</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-07-18T05:02:23.501Z</lastmod>
+    <lastmod>2026-08-24T07:03:57.350Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/GalsenDev221/first.contributions</loc>
@@ -998,16 +998,16 @@
     <lastmod>2026-08-20T22:22:28.876Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-08-22T05:29:02.988Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/mautic/user-documentation</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-06-27T08:12:30.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-08-22T05:29:02.988Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/devanshi14malhotra/GitCanvas</loc>
@@ -1034,10 +1034,10 @@
     <lastmod>2026-08-22T18:42:35.710Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/myenergy</loc>
+    <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-08-22T05:29:41.854Z</lastmod>
+    <lastmod>2026-08-22T05:29:11.770Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
@@ -1046,10 +1046,10 @@
     <lastmod>2026-08-22T18:41:32.374Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
+    <loc>https://contributor.info/sujithq/myenergy</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-08-22T05:29:11.770Z</lastmod>
+    <lastmod>2026-08-22T05:29:41.854Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/shadcn/ui</loc>
@@ -1076,6 +1076,12 @@
     <lastmod>2026-08-22T18:43:07.607Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/anthropics/claude-code</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-17T12:40:20.858Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/clickhouse/clickhouse</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1088,22 +1094,10 @@
     <lastmod>2026-08-22T18:43:27.940Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/anthropics/claude-code</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-17T12:40:20.858Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/Robdel12/DraftPatch</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-05-19T05:57:50.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-08-22T21:03:03.625Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/gitnull-dev/gitnull-dev</loc>
@@ -1112,10 +1106,22 @@
     <lastmod>2026-05-20T15:52:56.977Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-08-22T21:03:03.625Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/zml/zml</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-07-13T02:37:57.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/vue/vue</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-07-28T14:14:42.073Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/langchain-ai/langchain</loc>
@@ -1142,16 +1148,16 @@
     <lastmod>2026-08-21T10:39:25.851Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/vue/vue</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-07-28T14:14:42.073Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/Iam-Karan-Suresh/kestra</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-07-02T13:54:26.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/pierce403/cheapbugs</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-20T15:37:08.485Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/Supabase/supabase</loc>
@@ -1160,10 +1166,10 @@
     <lastmod>2026-08-22T18:44:12.044Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/pierce403/cheapbugs</loc>
+    <loc>https://contributor.info/RajendharAre/guestbook</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-20T15:37:08.485Z</lastmod>
+    <lastmod>2026-08-24T07:22:17.969Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/moment/moment</loc>
@@ -1208,10 +1214,10 @@
     <lastmod>2026-08-22T07:03:38.940Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
+    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-08-22T18:43:44.454Z</lastmod>
+    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/excalidraw/excalidraw</loc>
@@ -1220,10 +1226,10 @@
     <lastmod>2026-08-22T18:44:31.313Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
+    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
+    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/huggingface/transformers</loc>
@@ -1262,10 +1268,10 @@
     <lastmod>2026-07-30T16:03:54.574Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
+    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
+    <lastmod>2026-08-24T23:46:11.407Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/bossoagent/0xwork-event-listener</loc>
@@ -1313,7 +1319,7 @@
     <loc>https://contributor.info/fastapi/fastapi</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-07-22T09:32:35.395Z</lastmod>
+    <lastmod>2026-08-25T00:17:51.805Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rust-lang/rust</loc>
@@ -1394,6 +1400,12 @@
     <lastmod>2026-05-04T12:54:45.116Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/open-sauced/app</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-08-24T11:10:25.151Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/topoteretes/cognee</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1404,12 +1416,6 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-08-22T05:28:50.354Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/open-sauced/app</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-07-19T01:54:12.762Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/facebook/react</loc>
@@ -1436,16 +1442,16 @@
     <lastmod>2026-08-22T18:44:24.427Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/rivet-gg/rivetkit</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-23T20:46:34.008Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/lodash/lodash</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-06-23T16:27:12.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/rivet-gg/rivetkit</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-23T20:46:34.008Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/thezaidsheikh/AI-Code-Review</loc>
