@@ -3,47 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
+    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-23T18:20:13.127Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
+      <news:publication_date>2026-08-25T18:20:02.751Z</news:publication_date>
+      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/etcd-io/etcd</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-23T20:20:43.737Z</news:publication_date>
-      <news:title>etcd-io/etcd - Contributor Updates</news:title>
+      <news:publication_date>2026-08-25T20:59:34.575Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/terrapkg/packages</loc>
+    <loc>https://contributor.info/rexdivakar/Notifly</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-23T06:20:42.975Z</news:publication_date>
-      <news:title>terrapkg/packages - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/papercomputeco/tapes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T09:06:29.885Z</news:publication_date>
-      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+      <news:publication_date>2026-08-25T05:46:05.891Z</news:publication_date>
+      <news:title>rexdivakar/Notifly - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -58,6 +47,50 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T10:14:31.480Z</news:publication_date>
+      <news:title>ArshadMahalkari/StockApp - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/shadcn/ui</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T09:47:57.582Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/golang/go</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T08:30:48.931Z</news:publication_date>
+      <news:title>golang/go - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/zml/zml</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T06:01:52.450Z</news:publication_date>
+      <news:title>zml/zml - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/RajendharAre/guestbook</loc>
     <news:news>
       <news:publication>
@@ -69,14 +102,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/cline/cline</loc>
+    <loc>https://contributor.info/vue/vue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-23T20:36:09.749Z</news:publication_date>
-      <news:title>cline/cline - Contributor Updates</news:title>
+      <news:publication_date>2026-08-25T08:58:41.804Z</news:publication_date>
+      <news:title>vue/vue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/moment/moment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T10:02:54.841Z</news:publication_date>
+      <news:title>moment/moment - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -97,8 +141,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-25T00:17:51.805Z</news:publication_date>
+      <news:publication_date>2026-08-25T16:24:46.726Z</news:publication_date>
       <news:title>fastapi/fastapi - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/lodash/lodash</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T07:51:37.232Z</news:publication_date>
+      <news:title>lodash/lodash - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -108,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-24T11:10:25.151Z</news:publication_date>
+      <news:publication_date>2026-08-25T08:08:03.918Z</news:publication_date>
       <news:title>open-sauced/app - Contributor Updates</news:title>
     </news:news>
   </url>
