@@ -3,25 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-25T18:20:02.751Z</news:publication_date>
-      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T20:59:34.575Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
+      <news:publication_date>2026-08-28T04:16:27.869Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -47,6 +36,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T18:38:36.882Z</news:publication_date>
+      <news:title>atuinsh/desktop - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/terrapkg/packages</loc>
     <news:news>
       <news:publication>
@@ -58,14 +58,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/fastapi/fastapi</loc>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-25T16:24:46.726Z</news:publication_date>
-      <news:title>fastapi/fastapi - Contributor Updates</news:title>
+      <news:publication_date>2026-08-28T08:39:11.455Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
