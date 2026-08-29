@@ -3,6 +3,17 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ollama/ollama</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T06:06:13.564Z</news:publication_date>
+      <news:title>ollama/ollama - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
@@ -11,17 +22,6 @@
       </news:publication>
       <news:publication_date>2026-08-28T04:16:27.869Z</news:publication_date>
       <news:title>pgvector/pgvector - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T05:27:42.371Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -47,14 +47,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/terrapkg/packages</loc>
+    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-26T19:32:44.574Z</news:publication_date>
-      <news:title>terrapkg/packages - Contributor Updates</news:title>
+      <news:publication_date>2026-08-28T17:20:51.719Z</news:publication_date>
+      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/rust-lang/rust</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T01:46:43.170Z</news:publication_date>
+      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -66,6 +77,17 @@
       </news:publication>
       <news:publication_date>2026-08-28T08:39:11.455Z</news:publication_date>
       <news:title>prometheus/prometheus - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/clickhouse/clickhouse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T15:40:38.284Z</news:publication_date>
+      <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>

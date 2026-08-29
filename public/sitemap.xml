@@ -191,19 +191,19 @@
     <loc>https://contributor.info/ollama/ollama</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-22T08:29:42.298Z</lastmod>
+    <lastmod>2026-08-29T06:06:13.564Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-22T08:29:42.298Z</lastmod>
+    <lastmod>2026-08-29T06:06:13.564Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ollama/ollama/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-22T08:29:42.298Z</lastmod>
+    <lastmod>2026-08-29T06:06:13.564Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/vercel/next.js</loc>
@@ -983,7 +983,7 @@
     <loc>https://contributor.info/papercomputeco/masterblaster</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-07-18T14:49:14.037Z</lastmod>
+    <lastmod>2026-08-28T17:20:51.719Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/jargonsdev/jargons.dev</loc>
@@ -1016,16 +1016,16 @@
     <lastmod>2026-08-20T22:22:28.876Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/mautic/user-documentation</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-06-27T08:12:30.891Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/Bridgetamana/pixlated</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-08-22T05:29:02.988Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-27T08:12:30.891Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/devanshi14malhotra/GitCanvas</loc>
@@ -1052,6 +1052,12 @@
     <lastmod>2026-08-22T18:42:35.710Z</lastmod>
   </url>
   <url>
+    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-08-25T10:14:31.480Z</lastmod>
+  </url>
+  <url>
     <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1062,12 +1068,6 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-08-22T05:29:41.854Z</lastmod>
-  </url>
-  <url>
-    <loc>https://contributor.info/ArshadMahalkari/StockApp</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-08-25T10:14:31.480Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
@@ -1118,22 +1118,16 @@
     <lastmod>2026-08-21T10:39:25.851Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
-  </url>
-  <url>
     <loc>https://contributor.info/Supabase/supabase</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-08-22T18:44:12.044Z</lastmod>
   </url>
   <url>
-    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
+    <loc>https://contributor.info/JKILLR/0xwork-devkit</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
+    <lastmod>2026-05-20T15:37:09.171Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/moment/moment</loc>
@@ -1158,6 +1152,12 @@
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <lastmod>2026-07-06T21:37:28.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.info/NutriFitFax/NutriFit</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-06-02T10:36:48.101Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
@@ -1259,19 +1259,19 @@
     <loc>https://contributor.info/rust-lang/rust</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-08-22T06:31:52.294Z</lastmod>
+    <lastmod>2026-08-29T01:46:43.170Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rust-lang/rust/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-22T06:31:52.294Z</lastmod>
+    <lastmod>2026-08-29T01:46:43.170Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/rust-lang/rust/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-08-22T06:31:52.294Z</lastmod>
+    <lastmod>2026-08-29T01:46:43.170Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/angular/angular</loc>
@@ -1463,7 +1463,7 @@
     <loc>https://contributor.info/clickhouse/clickhouse</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-07-24T14:34:49.265Z</lastmod>
+    <lastmod>2026-08-28T15:40:38.284Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/terraform-providers/terraform-provider-aws</loc>
