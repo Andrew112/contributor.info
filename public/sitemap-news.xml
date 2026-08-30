@@ -14,35 +14,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T04:16:27.869Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/vorssaintapp/vorssaint-utils</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T10:19:15.296Z</news:publication_date>
-      <news:title>vorssaintapp/vorssaint-utils - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/atuinsh/desktop</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-27T18:38:36.882Z</news:publication_date>
+      <news:publication_date>2026-08-29T14:05:23.636Z</news:publication_date>
       <news:title>atuinsh/desktop - Contributor Updates</news:title>
     </news:news>
   </url>
