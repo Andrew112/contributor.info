@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ollama/ollama</loc>
+    <loc>https://contributor.info/Mail-0/Zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T06:06:13.564Z</news:publication_date>
-      <news:title>ollama/ollama - Contributor Updates</news:title>
+      <news:publication_date>2026-08-31T03:34:14.851Z</news:publication_date>
+      <news:title>Mail-0/Zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,47 +25,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/masterblaster</loc>
+    <loc>https://contributor.info/bdougie/contributor.info</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-28T17:20:51.719Z</news:publication_date>
-      <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
+      <news:publication_date>2026-08-30T22:03:58.810Z</news:publication_date>
+      <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/rust-lang/rust</loc>
+    <loc>https://contributor.info/anthropics/claude-code</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T01:46:43.170Z</news:publication_date>
-      <news:title>rust-lang/rust - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T08:39:11.455Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/clickhouse/clickhouse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T15:40:38.284Z</news:publication_date>
-      <news:title>clickhouse/clickhouse - Contributor Updates</news:title>
+      <news:publication_date>2026-08-30T19:30:37.985Z</news:publication_date>
+      <news:title>anthropics/claude-code - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
