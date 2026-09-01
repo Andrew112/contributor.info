@@ -14,14 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/atuinsh/desktop</loc>
+    <loc>https://contributor.info/PyPSA/PyPSA</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T14:05:23.636Z</news:publication_date>
-      <news:title>atuinsh/desktop - Contributor Updates</news:title>
+      <news:publication_date>2026-09-01T02:04:16.247Z</news:publication_date>
+      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -44,6 +44,17 @@
       </news:publication>
       <news:publication_date>2026-08-30T19:30:37.985Z</news:publication_date>
       <news:title>anthropics/claude-code - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T04:39:45.577Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
