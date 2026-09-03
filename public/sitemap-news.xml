@@ -14,14 +14,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/PyPSA/PyPSA</loc>
+    <loc>https://contributor.info/shadcn/ui</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T02:04:16.247Z</news:publication_date>
-      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
+      <news:publication_date>2026-09-03T03:11:38.978Z</news:publication_date>
+      <news:title>shadcn/ui - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -36,14 +36,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/facebook/react</loc>
+    <loc>https://contributor.info/rust-lang/rust</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T04:39:45.577Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
+      <news:publication_date>2026-09-02T15:49:14.930Z</news:publication_date>
+      <news:title>rust-lang/rust - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
