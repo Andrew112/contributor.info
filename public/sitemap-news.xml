@@ -3,14 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T17:26:05.614Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+      <news:publication_date>2026-09-04T02:54:52.989Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vitejs/vite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T23:52:24.196Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T02:54:57.882Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -22,17 +44,6 @@
       </news:publication>
       <news:publication_date>2026-09-03T03:11:38.978Z</news:publication_date>
       <news:title>shadcn/ui - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T13:48:10.746Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
