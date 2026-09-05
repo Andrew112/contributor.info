@@ -9,7 +9,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-04T02:54:52.989Z</news:publication_date>
+      <news:publication_date>2026-09-05T04:50:40.242Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -31,30 +31,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-04T02:54:57.882Z</news:publication_date>
+      <news:publication_date>2026-09-05T03:29:13.214Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/shadcn/ui</loc>
+    <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-03T03:11:38.978Z</news:publication_date>
-      <news:title>shadcn/ui - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/rust-lang/rust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T15:49:14.930Z</news:publication_date>
-      <news:title>rust-lang/rust - Contributor Updates</news:title>
+      <news:publication_date>2026-09-04T20:42:46.825Z</news:publication_date>
+      <news:title>Ad-Astra-Innovia/frontend - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
