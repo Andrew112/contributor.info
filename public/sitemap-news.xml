@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/argoproj/argo-cd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T04:50:40.242Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-09-06T21:00:49.644Z</news:publication_date>
+      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,25 +25,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/papercomputeco/stereOS</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T21:57:39.116Z</news:publication_date>
-      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T21:57:56.477Z</news:publication_date>
+      <news:publication_date>2026-09-07T05:25:13.985Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/papercomputeco/stereOS</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T06:32:16.066Z</news:publication_date>
+      <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -53,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T21:57:43.038Z</news:publication_date>
+      <news:publication_date>2026-09-07T00:13:50.701Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T21:57:59.344Z</news:publication_date>
+      <news:publication_date>2026-09-07T00:14:05.504Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -102,14 +102,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
+    <loc>https://contributor.info/angular/angular</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-04T20:42:46.825Z</news:publication_date>
-      <news:title>Ad-Astra-Innovia/frontend - Contributor Updates</news:title>
+      <news:publication_date>2026-09-06T11:51:41.815Z</news:publication_date>
+      <news:title>angular/angular - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
