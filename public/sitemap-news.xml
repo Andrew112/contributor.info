@@ -3,6 +3,39 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T11:03:40.703Z</news:publication_date>
+      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/continuedev/continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vercel/ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/argoproj/argo-cd</loc>
     <news:news>
       <news:publication>
@@ -14,14 +47,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/CGCookie/retopoflow</loc>
+    <loc>https://contributor.info/google/sam</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T11:14:48.362Z</news:publication_date>
-      <news:title>CGCookie/retopoflow - Contributor Updates</news:title>
+      <news:publication_date>2026-09-07T11:17:15.550Z</news:publication_date>
+      <news:title>google/sam - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -31,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-07T05:25:13.985Z</news:publication_date>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -42,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-07T06:32:16.066Z</news:publication_date>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-07T00:13:50.701Z</news:publication_date>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,41 +97,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-07T00:14:05.504Z</news:publication_date>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
+    <loc>https://contributor.info/papercomputeco/tapesctl</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T09:37:36.647Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/langchain-ai/langchain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T13:42:35.620Z</news:publication_date>
-      <news:title>langchain-ai/langchain - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pytorch/pytorch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T08:23:15.534Z</news:publication_date>
-      <news:title>pytorch/pytorch - Contributor Updates</news:title>
+      <news:publication_date>2026-09-08T03:03:55.685Z</news:publication_date>
+      <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -110,6 +121,17 @@
       </news:publication>
       <news:publication_date>2026-09-06T11:51:41.815Z</news:publication_date>
       <news:title>angular/angular - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/prometheus/prometheus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T21:59:54.759Z</news:publication_date>
+      <news:title>prometheus/prometheus - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
