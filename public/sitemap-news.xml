@@ -9,30 +9,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-11T23:03:12.974Z</news:publication_date>
+      <news:publication_date>2026-09-13T06:02:11.288Z</news:publication_date>
       <news:title>openclaw/openclaw - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T04:43:35.235Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/microsoft/TypeScript</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T04:42:13.905Z</news:publication_date>
-      <news:title>microsoft/TypeScript - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -47,24 +25,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ziglang/zig</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T12:07:15.349Z</news:publication_date>
-      <news:title>ziglang/zig - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-11T19:56:45.203Z</news:publication_date>
+      <news:publication_date>2026-09-12T12:26:17.861Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,19 +75,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T04:09:10.639Z</news:publication_date>
+      <news:publication_date>2026-09-13T04:30:27.255Z</news:publication_date>
       <news:title>Mail-0/Zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/supabase/realtime</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T15:52:18.148Z</news:publication_date>
-      <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -135,13 +91,24 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-13T03:23:22.587Z</news:publication_date>
+      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +119,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:28:21.596Z</news:publication_date>
+      <news:publication_date>2026-09-12T10:04:47.021Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -163,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -185,7 +152,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -196,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -207,19 +174,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-12T03:06:56.647Z</news:publication_date>
+      <news:publication_date>2026-09-13T03:06:59.751Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Iam-Karan-Suresh/kestra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T22:37:01.085Z</news:publication_date>
-      <news:title>Iam-Karan-Suresh/kestra - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
