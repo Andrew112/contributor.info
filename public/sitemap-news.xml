@@ -9,8 +9,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T01:58:17.767Z</news:publication_date>
+      <news:publication_date>2026-09-17T05:09:16.665Z</news:publication_date>
       <news:title>openclaw/openclaw - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/ollama/ollama</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T07:18:42.881Z</news:publication_date>
+      <news:title>ollama/ollama - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -20,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T01:40:01.718Z</news:publication_date>
+      <news:publication_date>2026-09-17T00:06:12.769Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -31,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-14T09:17:39.853Z</news:publication_date>
+      <news:publication_date>2026-09-17T02:14:04.945Z</news:publication_date>
       <news:title>vitejs/vite - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T02:57:41.183Z</news:publication_date>
+      <news:publication_date>2026-09-17T07:04:10.081Z</news:publication_date>
       <news:title>ziglang/zig - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,19 +97,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T22:57:26.610Z</news:publication_date>
+      <news:publication_date>2026-09-17T00:00:52.770Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Mail-0/Zero</loc>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T05:10:44.596Z</news:publication_date>
-      <news:title>Mail-0/Zero - Contributor Updates</news:title>
+      <news:publication_date>2026-09-17T05:28:13.441Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -108,7 +119,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T18:36:07.920Z</news:publication_date>
+      <news:publication_date>2026-09-16T17:15:55.991Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T02:25:17.508Z</news:publication_date>
+      <news:publication_date>2026-09-16T14:58:48.776Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T17:05:31.161Z</news:publication_date>
+      <news:publication_date>2026-09-16T22:47:16.791Z</news:publication_date>
       <news:title>AAChartModel/AAChartCore-Kotlin - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -174,7 +185,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -185,7 +196,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T17:40:38.166Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:06:33.260Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -196,7 +207,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -207,7 +218,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T07:29:40.455Z</news:publication_date>
+      <news:publication_date>2026-09-17T04:09:41.963Z</news:publication_date>
       <news:title>pashkov256/deletor - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -218,7 +229,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -229,7 +240,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -240,8 +251,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-15T05:52:16.884Z</news:publication_date>
+      <news:publication_date>2026-09-17T04:52:29.302Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T22:41:45.671Z</news:publication_date>
+      <news:title>Bridgetamana/pixlated - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -251,19 +273,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-16T03:07:11.050Z</news:publication_date>
+      <news:publication_date>2026-09-17T03:13:05.286Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/langchain-ai/langchain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T19:51:50.461Z</news:publication_date>
-      <news:title>langchain-ai/langchain - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -278,14 +289,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
+    <loc>https://contributor.info/golang/go</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-14T23:48:51.939Z</news:publication_date>
-      <news:title>BH3Panzer/leaf-project - Contributor Updates</news:title>
+      <news:publication_date>2026-09-16T09:31:54.324Z</news:publication_date>
+      <news:title>golang/go - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
