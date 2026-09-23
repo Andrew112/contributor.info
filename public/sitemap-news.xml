@@ -53,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -80,6 +80,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/supabase/realtime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T16:28:51.909Z</news:publication_date>
+      <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
     <news:news>
       <news:publication>
@@ -91,24 +102,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/osmlab/name-suggestion-index</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T13:56:01.232Z</news:publication_date>
-      <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/zuplo/zudoku</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-21T23:03:52.954Z</news:publication_date>
+      <news:publication_date>2026-09-22T19:43:06.612Z</news:publication_date>
       <news:title>zuplo/zudoku - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +119,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +152,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -174,7 +174,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -185,7 +185,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T03:08:54.807Z</news:publication_date>
+      <news:publication_date>2026-09-23T03:14:57.815Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -212,105 +212,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/golang/go</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T00:16:43.714Z</news:publication_date>
-      <news:title>golang/go - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/facebook/react</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T04:35:29.994Z</news:publication_date>
-      <news:title>facebook/react - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/moment/moment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T23:19:44.539Z</news:publication_date>
-      <news:title>moment/moment - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/supabase/supabase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T20:38:56.186Z</news:publication_date>
-      <news:title>supabase/supabase - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/zulip/zulip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T17:58:16.684Z</news:publication_date>
-      <news:title>zulip/zulip - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T08:10:32.800Z</news:publication_date>
-      <news:title>BH3Panzer/leaf-project - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T04:06:09.482Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/huggingface/transformers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T23:34:20.847Z</news:publication_date>
-      <news:title>huggingface/transformers - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/cline/cline</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T05:09:17.665Z</news:publication_date>
-      <news:title>cline/cline - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/Ad-Astra-Innovia/frontend</loc>
     <news:news>
       <news:publication>
@@ -322,58 +223,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
+    <loc>https://contributor.info/zml/zml</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T02:48:38.563Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
+      <news:publication_date>2026-09-21T18:41:24.184Z</news:publication_date>
+      <news:title>zml/zml - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/fastapi/fastapi</loc>
+    <loc>https://contributor.info/vue/vue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-22T00:54:46.861Z</news:publication_date>
-      <news:title>fastapi/fastapi - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/angular/angular</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T09:29:16.726Z</news:publication_date>
-      <news:title>angular/angular - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pingcap/tidb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T22:12:02.173Z</news:publication_date>
-      <news:title>pingcap/tidb - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/dlt-hub/dlt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T16:29:19.725Z</news:publication_date>
-      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
+      <news:publication_date>2026-09-21T19:04:28.643Z</news:publication_date>
+      <news:title>vue/vue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -443,25 +311,135 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/vue/vue</loc>
+    <loc>https://contributor.info/golang/go</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-21T19:04:28.643Z</news:publication_date>
-      <news:title>vue/vue - Contributor Updates</news:title>
+      <news:publication_date>2026-09-22T00:16:43.714Z</news:publication_date>
+      <news:title>golang/go - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/zml/zml</loc>
+    <loc>https://contributor.info/facebook/react</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-21T18:41:24.184Z</news:publication_date>
-      <news:title>zml/zml - Contributor Updates</news:title>
+      <news:publication_date>2026-09-22T04:35:29.994Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/moment/moment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T23:19:44.539Z</news:publication_date>
+      <news:title>moment/moment - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/supabase/supabase</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T20:38:56.186Z</news:publication_date>
+      <news:title>supabase/supabase - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/zulip/zulip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T17:58:16.684Z</news:publication_date>
+      <news:title>zulip/zulip - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/grafana/grafana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T04:06:09.482Z</news:publication_date>
+      <news:title>grafana/grafana - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/huggingface/transformers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T23:34:20.847Z</news:publication_date>
+      <news:title>huggingface/transformers - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/cline/cline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T05:09:17.665Z</news:publication_date>
+      <news:title>cline/cline - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/nestjs/nest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T02:48:38.563Z</news:publication_date>
+      <news:title>nestjs/nest - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/fastapi/fastapi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T00:54:46.861Z</news:publication_date>
+      <news:title>fastapi/fastapi - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pingcap/tidb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T22:12:02.173Z</news:publication_date>
+      <news:title>pingcap/tidb - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/dlt-hub/dlt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T16:29:19.725Z</news:publication_date>
+      <news:title>dlt-hub/dlt - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
