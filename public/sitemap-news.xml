@@ -20,7 +20,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -31,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -58,35 +58,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/supabase/realtime</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T16:28:51.909Z</news:publication_date>
-      <news:title>supabase/realtime - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/zuplo/zudoku</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T19:43:06.612Z</news:publication_date>
-      <news:title>zuplo/zudoku - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,8 +108,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T03:09:16.723Z</news:publication_date>
+      <news:publication_date>2026-09-25T03:07:37.315Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/facebook/react</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T20:21:27.790Z</news:publication_date>
+      <news:title>facebook/react - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
