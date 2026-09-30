@@ -3,36 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-27T16:08:54.187Z</news:publication_date>
-      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/microsoft/TypeScript</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T19:38:17.213Z</news:publication_date>
-      <news:title>microsoft/TypeScript - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:28:13.701Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-09-29T17:20:45.162Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +20,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T04:53:26.728Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,8 +86,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-29T03:14:27.024Z</news:publication_date>
+      <news:publication_date>2026-09-30T03:14:22.228Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/dachosen1/nearquake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T12:09:17.744Z</news:publication_date>
+      <news:title>dachosen1/nearquake - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
