@@ -31,19 +31,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T00:29:52.801Z</news:publication_date>
+      <news:publication_date>2026-10-08T11:05:32.091Z</news:publication_date>
       <news:title>ziglang/zig - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/fastify/fastify</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T08:33:30.747Z</news:publication_date>
-      <news:title>fastify/fastify - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -53,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-07T01:44:07.978Z</news:publication_date>
+      <news:publication_date>2026-10-08T10:07:59.797Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,8 +86,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-07T06:27:22.275Z</news:publication_date>
+      <news:publication_date>2026-10-08T15:22:06.456Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T14:53:14.297Z</news:publication_date>
+      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -163,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T06:15:29.873Z</news:publication_date>
+      <news:publication_date>2026-10-08T12:17:17.914Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -174,7 +174,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -185,7 +185,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-07T01:12:27.481Z</news:publication_date>
+      <news:publication_date>2026-10-08T13:59:30.607Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -196,7 +196,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T04:33:50.127Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>papercomputeco/stereOS - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -207,7 +207,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-07T23:52:03.844Z</news:publication_date>
+      <news:publication_date>2026-10-08T16:57:19.540Z</news:publication_date>
       <news:title>pashkov256/deletor - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -218,8 +218,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>papercomputeco/masterblaster - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/rexdivakar/Notifly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T23:16:11.149Z</news:publication_date>
+      <news:title>rexdivakar/Notifly - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -229,7 +240,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>bdougie/contributor.info - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -240,19 +251,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T05:03:32.624Z</news:publication_date>
+      <news:publication_date>2026-10-08T14:32:42.884Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Bridgetamana/pixlated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:55:43.006Z</news:publication_date>
-      <news:title>Bridgetamana/pixlated - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -262,41 +262,41 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T03:10:47.340Z</news:publication_date>
+      <news:publication_date>2026-10-09T03:14:58.729Z</news:publication_date>
       <news:title>papercomputeco/tapesctl - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grafana/grafana</loc>
+    <loc>https://contributor.info/excalidraw/excalidraw</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-06T09:04:18.735Z</news:publication_date>
-      <news:title>grafana/grafana - Contributor Updates</news:title>
+      <news:publication_date>2026-10-08T19:27:03.073Z</news:publication_date>
+      <news:title>excalidraw/excalidraw - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/nestjs/nest</loc>
+    <loc>https://contributor.info/duckdb/duckdb</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-06T13:57:42.184Z</news:publication_date>
-      <news:title>nestjs/nest - Contributor Updates</news:title>
+      <news:publication_date>2026-10-08T20:42:57.799Z</news:publication_date>
+      <news:title>duckdb/duckdb - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/anthropics/claude-code</loc>
+    <loc>https://contributor.info/ClickHouse/ClickHouse</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-06T09:59:35.864Z</news:publication_date>
-      <news:title>anthropics/claude-code - Contributor Updates</news:title>
+      <news:publication_date>2026-10-09T04:16:21.756Z</news:publication_date>
+      <news:title>ClickHouse/ClickHouse - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -308,28 +308,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T10:04:53.926Z</news:publication_date>
       <news:title>Iam-Karan-Suresh/kestra - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/BlueMatthew/WechatExporter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T03:32:27.881Z</news:publication_date>
-      <news:title>BlueMatthew/WechatExporter - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/BH3Panzer/leaf-project</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:05:53.222Z</news:publication_date>
-      <news:title>BH3Panzer/leaf-project - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
