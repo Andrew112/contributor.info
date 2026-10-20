@@ -9,30 +9,107 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T10:57:01.223Z</news:publication_date>
+      <news:publication_date>2026-10-19T19:02:39.280Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
+    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T11:58:54.812Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
+      <news:publication_date>2026-10-20T07:20:49.486Z</news:publication_date>
+      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
+    <loc>https://contributor.info/ziglang/zig</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-10T01:21:51.268Z</news:publication_date>
-      <news:title>AAChartModel/AAChartCore-Kotlin - Contributor Updates</news:title>
+      <news:publication_date>2026-10-20T02:16:23.774Z</news:publication_date>
+      <news:title>ziglang/zig - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TanStack/table</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:07:43.737Z</news:publication_date>
+      <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/argoproj/argo-cd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:19:58.514Z</news:publication_date>
+      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:22:35.127Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/agent0ai/agent-zero</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:56:56.009Z</news:publication_date>
+      <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/supabase/realtime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:33:09.007Z</news:publication_date>
+      <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/apache/maven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:15:05.102Z</news:publication_date>
+      <news:title>apache/maven - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:57:15.643Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,19 +119,30 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T09:57:28.266Z</news:publication_date>
+      <news:publication_date>2026-10-20T03:15:40.676Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/prometheus/prometheus</loc>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T09:28:05.132Z</news:publication_date>
-      <news:title>prometheus/prometheus - Contributor Updates</news:title>
+      <news:publication_date>2026-10-20T05:27:00.499Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/sujithq/sujithq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:20:37.970Z</news:publication_date>
+      <news:title>sujithq/sujithq - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
