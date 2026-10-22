@@ -9,30 +9,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-19T19:02:39.280Z</news:publication_date>
+      <news:publication_date>2026-10-22T03:14:09.340Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <loc>https://contributor.info/continuedev/continue</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-20T07:20:49.486Z</news:publication_date>
-      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ziglang/zig</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T02:16:23.774Z</news:publication_date>
-      <news:title>ziglang/zig - Contributor Updates</news:title>
+      <news:publication_date>2026-10-21T16:45:34.245Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,30 +31,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T02:53:15.952Z</news:publication_date>
+      <news:publication_date>2026-10-21T11:47:19.726Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/argoproj/argo-cd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:19:58.514Z</news:publication_date>
-      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:22:35.127Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -86,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T04:06:17.384Z</news:publication_date>
+      <news:publication_date>2026-10-21T23:01:13.515Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T01:38:22.190Z</news:publication_date>
+      <news:publication_date>2026-10-21T16:00:55.416Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-20T03:15:40.676Z</news:publication_date>
+      <news:publication_date>2026-10-22T03:15:12.834Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -135,14 +102,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/sujithq/sujithq</loc>
+    <loc>https://contributor.info/terrapkg/packages</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-19T18:20:37.970Z</news:publication_date>
-      <news:title>sujithq/sujithq - Contributor Updates</news:title>
+      <news:publication_date>2026-10-21T17:09:21.864Z</news:publication_date>
+      <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
