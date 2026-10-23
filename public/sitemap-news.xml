@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/microsoft/vscode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:53:19.020Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-22T03:14:09.340Z</news:publication_date>
+      <news:publication_date>2026-10-22T19:40:55.542Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -31,7 +42,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T11:47:19.726Z</news:publication_date>
+      <news:publication_date>2026-10-23T00:04:20.292Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T02:31:31.736Z</news:publication_date>
+      <news:publication_date>2026-10-22T19:53:24.010Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,19 +64,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T23:01:13.515Z</news:publication_date>
+      <news:publication_date>2026-10-22T09:09:53.337Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/apache/maven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T01:48:56.863Z</news:publication_date>
-      <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T16:00:55.416Z</news:publication_date>
+      <news:publication_date>2026-10-22T22:36:51.117Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-20T22:28:20.092Z</news:publication_date>
+      <news:publication_date>2026-10-22T10:16:51.269Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-21T17:09:21.864Z</news:publication_date>
+      <news:publication_date>2026-10-22T20:41:37.781Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>

@@ -155,19 +155,19 @@
     <loc>https://contributor.info/microsoft/vscode</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-09-08T12:22:36.465Z</lastmod>
+    <lastmod>2026-10-22T08:53:19.020Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-09-08T12:22:36.465Z</lastmod>
+    <lastmod>2026-10-22T08:53:19.020Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/microsoft/vscode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-09-08T12:22:36.465Z</lastmod>
+    <lastmod>2026-10-22T08:53:19.020Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
@@ -281,19 +281,19 @@
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-22T03:14:09.340Z</lastmod>
+    <lastmod>2026-10-22T19:40:55.542Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anomalyco/opencode/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-22T03:14:09.340Z</lastmod>
+    <lastmod>2026-10-22T19:40:55.542Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/anomalyco/opencode/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-22T03:14:09.340Z</lastmod>
+    <lastmod>2026-10-22T19:40:55.542Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/vitejs/vite</loc>
@@ -479,19 +479,19 @@
     <loc>https://contributor.info/TanStack/table</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T11:47:19.726Z</lastmod>
+    <lastmod>2026-10-23T00:04:20.292Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T11:47:19.726Z</lastmod>
+    <lastmod>2026-10-23T00:04:20.292Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/TanStack/table/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T11:47:19.726Z</lastmod>
+    <lastmod>2026-10-23T00:04:20.292Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/atuinsh/atuin</loc>
@@ -605,19 +605,19 @@
     <loc>https://contributor.info/agent0ai/agent-zero</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T02:31:31.736Z</lastmod>
+    <lastmod>2026-10-22T19:53:24.010Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/agent0ai/agent-zero/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T02:31:31.736Z</lastmod>
+    <lastmod>2026-10-22T19:53:24.010Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/agent0ai/agent-zero/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T02:31:31.736Z</lastmod>
+    <lastmod>2026-10-22T19:53:24.010Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/github/docs</loc>
@@ -695,19 +695,19 @@
     <loc>https://contributor.info/supabase/realtime</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T23:01:13.515Z</lastmod>
+    <lastmod>2026-10-22T09:09:53.337Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/supabase/realtime/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T23:01:13.515Z</lastmod>
+    <lastmod>2026-10-22T09:09:53.337Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/supabase/realtime/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T23:01:13.515Z</lastmod>
+    <lastmod>2026-10-22T09:09:53.337Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/apache/maven</loc>
@@ -821,19 +821,19 @@
     <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T16:00:55.416Z</lastmod>
+    <lastmod>2026-10-22T22:36:51.117Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/envoyproxy/ai-gateway/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T16:00:55.416Z</lastmod>
+    <lastmod>2026-10-22T22:36:51.117Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/envoyproxy/ai-gateway/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T16:00:55.416Z</lastmod>
+    <lastmod>2026-10-22T22:36:51.117Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/AAChartModel/AAChartCore-Kotlin</loc>
@@ -911,37 +911,37 @@
     <loc>https://contributor.info/papercomputeco/tapes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-20T22:28:20.092Z</lastmod>
+    <lastmod>2026-10-22T10:16:51.269Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/tapes/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-10-20T22:28:20.092Z</lastmod>
+    <lastmod>2026-10-22T10:16:51.269Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/tapes/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-10-20T22:28:20.092Z</lastmod>
+    <lastmod>2026-10-22T10:16:51.269Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/terrapkg/packages</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-21T17:09:21.864Z</lastmod>
+    <lastmod>2026-10-22T20:41:37.781Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/terrapkg/packages/health</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-10-21T17:09:21.864Z</lastmod>
+    <lastmod>2026-10-22T20:41:37.781Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/terrapkg/packages/distribution</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-10-21T17:09:21.864Z</lastmod>
+    <lastmod>2026-10-22T20:41:37.781Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.info/papercomputeco/stereOS</loc>
