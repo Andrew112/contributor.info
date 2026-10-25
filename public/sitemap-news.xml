@@ -25,17 +25,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T08:53:19.020Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
     <news:news>
       <news:publication>
@@ -44,6 +33,17 @@
       </news:publication>
       <news:publication_date>2026-10-24T02:05:50.386Z</news:publication_date>
       <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/ollama/ollama</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:17:08.042Z</news:publication_date>
+      <news:title>ollama/ollama - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T08:48:51.459Z</news:publication_date>
+      <news:publication_date>2026-10-24T07:39:45.814Z</news:publication_date>
       <news:title>ziglang/zig - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -91,14 +91,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/TanStack/table</loc>
+    <loc>https://contributor.info/atuinsh/atuin</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T00:04:20.292Z</news:publication_date>
-      <news:title>TanStack/table - Contributor Updates</news:title>
+      <news:publication_date>2026-10-24T09:09:35.410Z</news:publication_date>
+      <news:title>atuinsh/atuin - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -124,13 +124,35 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/apache/maven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:08:26.754Z</news:publication_date>
+      <news:title>apache/maven - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/PyPSA/PyPSA</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:31:04.441Z</news:publication_date>
+      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-22T22:36:51.117Z</news:publication_date>
+      <news:publication_date>2026-10-24T15:04:02.047Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -141,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T02:44:45.687Z</news:publication_date>
+      <news:publication_date>2026-10-24T14:01:20.258Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +174,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-22T10:16:51.269Z</news:publication_date>
+      <news:publication_date>2026-10-24T08:30:45.280Z</news:publication_date>
       <news:title>papercomputeco/tapes - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -163,7 +185,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T01:22:55.651Z</news:publication_date>
+      <news:publication_date>2026-10-24T22:59:54.877Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
