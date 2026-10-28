@@ -20,19 +20,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T15:03:21.000Z</news:publication_date>
+      <news:publication_date>2026-10-27T20:57:39.178Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/continuedev/continue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T23:11:30.114Z</news:publication_date>
-      <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -64,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T22:27:39.144Z</news:publication_date>
+      <news:publication_date>2026-10-28T05:58:06.783Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T03:27:52.323Z</news:publication_date>
+      <news:publication_date>2026-10-27T18:49:30.957Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T15:13:43.566Z</news:publication_date>
+      <news:publication_date>2026-10-27T10:29:00.707Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T21:18:21.110Z</news:publication_date>
+      <news:publication_date>2026-10-28T01:26:12.823Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -141,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T06:36:15.548Z</news:publication_date>
+      <news:publication_date>2026-10-27T10:50:05.404Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
