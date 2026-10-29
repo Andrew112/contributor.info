@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:19:31.937Z</news:publication_date>
+      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/ollama/ollama</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-26T10:17:50.296Z</news:publication_date>
+      <news:publication_date>2026-10-28T21:18:46.914Z</news:publication_date>
       <news:title>ollama/ollama - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -20,30 +31,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T20:57:39.178Z</news:publication_date>
+      <news:publication_date>2026-10-28T20:20:01.989Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/argoproj/argo-cd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T03:10:37.116Z</news:publication_date>
-      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/better-auth/better-auth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T04:53:42.177Z</news:publication_date>
-      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -53,19 +42,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-28T05:58:06.783Z</news:publication_date>
+      <news:publication_date>2026-10-29T06:41:46.753Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T01:58:30.088Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,8 +53,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T06:46:16.922Z</news:publication_date>
+      <news:publication_date>2026-10-29T04:38:32.156Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/apache/maven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T00:52:38.022Z</news:publication_date>
+      <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -86,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T18:49:30.957Z</news:publication_date>
+      <news:publication_date>2026-10-28T23:17:45.951Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T10:29:00.707Z</news:publication_date>
+      <news:publication_date>2026-10-29T01:23:14.179Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,19 +97,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-28T01:26:12.823Z</news:publication_date>
+      <news:publication_date>2026-10-28T23:59:53.949Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/FZJ-IEK3-VSA/FINE</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T00:09:11.769Z</news:publication_date>
-      <news:title>FZJ-IEK3-VSA/FINE - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -130,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-27T10:50:05.404Z</news:publication_date>
+      <news:publication_date>2026-10-29T05:03:52.852Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
