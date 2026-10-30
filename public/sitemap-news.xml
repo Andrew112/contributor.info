@@ -36,13 +36,46 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/vitejs/vite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T19:48:33.762Z</news:publication_date>
+      <news:title>vitejs/vite - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TanStack/table</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T03:08:59.410Z</news:publication_date>
+      <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T02:27:30.089Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/agent0ai/agent-zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T06:41:46.753Z</news:publication_date>
+      <news:publication_date>2026-10-29T22:13:22.303Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T04:38:32.156Z</news:publication_date>
+      <news:publication_date>2026-10-29T22:38:40.854Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T00:52:38.022Z</news:publication_date>
+      <news:publication_date>2026-10-29T22:55:14.782Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-28T23:17:45.951Z</news:publication_date>
+      <news:publication_date>2026-10-29T22:44:38.405Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,8 +130,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-28T23:59:53.949Z</news:publication_date>
+      <news:publication_date>2026-10-29T23:06:58.829Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/theopenlane/core</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:24:25.787Z</news:publication_date>
+      <news:title>theopenlane/core - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
