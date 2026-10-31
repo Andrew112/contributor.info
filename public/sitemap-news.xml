@@ -3,35 +3,13 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:19:31.937Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ollama/ollama</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:18:46.914Z</news:publication_date>
-      <news:title>ollama/ollama - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-28T20:20:01.989Z</news:publication_date>
+      <news:publication_date>2026-10-30T11:00:14.855Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T22:13:22.303Z</news:publication_date>
+      <news:publication_date>2026-10-31T01:16:20.277Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T22:44:38.405Z</news:publication_date>
+      <news:publication_date>2026-10-30T18:57:23.725Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T01:23:14.179Z</news:publication_date>
+      <news:publication_date>2026-10-30T10:12:52.448Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -143,17 +121,6 @@
       </news:publication>
       <news:publication_date>2026-10-29T21:24:25.787Z</news:publication_date>
       <news:title>theopenlane/core - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/mautic/user-documentation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T05:03:52.852Z</news:publication_date>
-      <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
