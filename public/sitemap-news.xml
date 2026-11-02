@@ -3,14 +3,47 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/anomalyco/opencode</loc>
+    <loc>https://contributor.info/react/react</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-30T11:00:14.855Z</news:publication_date>
-      <news:title>anomalyco/opencode - Contributor Updates</news:title>
+      <news:publication_date>2026-11-01T14:43:10.085Z</news:publication_date>
+      <news:title>react/react - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T22:24:22.981Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/kubernetes/kubernetes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T15:27:58.516Z</news:publication_date>
+      <news:title>kubernetes/kubernetes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/microsoft/TypeScript</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:23:48.058Z</news:publication_date>
+      <news:title>microsoft/TypeScript - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -53,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-01T07:28:05.563Z</news:publication_date>
+      <news:publication_date>2026-11-02T06:11:17.089Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-30T10:12:52.448Z</news:publication_date>
+      <news:publication_date>2026-11-01T23:46:17.344Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-31T09:59:29.092Z</news:publication_date>
+      <news:publication_date>2026-11-01T19:27:12.005Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
