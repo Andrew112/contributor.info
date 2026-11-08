@@ -14,25 +14,36 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/openclaw/openclaw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T01:29:26.646Z</news:publication_date>
+      <news:title>openclaw/openclaw - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T06:18:40.241Z</news:publication_date>
+      <news:publication_date>2026-11-07T15:35:32.411Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/ziglang/zig</loc>
+    <loc>https://contributor.info/appwrite/appwrite</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T07:45:06.237Z</news:publication_date>
-      <news:title>ziglang/zig - Contributor Updates</news:title>
+      <news:publication_date>2026-11-07T14:56:43.296Z</news:publication_date>
+      <news:title>appwrite/appwrite - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-05T13:59:12.047Z</news:publication_date>
+      <news:publication_date>2026-11-08T08:39:50.665Z</news:publication_date>
       <news:title>continuedev/continue - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T08:10:24.209Z</news:publication_date>
+      <news:publication_date>2026-11-08T01:18:33.041Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T00:09:42.991Z</news:publication_date>
+      <news:publication_date>2026-11-07T17:24:14.284Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T08:04:37.913Z</news:publication_date>
+      <news:publication_date>2026-11-08T06:09:57.240Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T23:29:11.983Z</news:publication_date>
+      <news:publication_date>2026-11-07T20:15:57.278Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,7 +141,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T07:15:06.632Z</news:publication_date>
+      <news:publication_date>2026-11-08T08:04:57.961Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -143,6 +154,17 @@
       </news:publication>
       <news:publication_date>2026-11-06T09:19:13.385Z</news:publication_date>
       <news:title>theopenlane/core - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T23:40:17.444Z</news:publication_date>
+      <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
