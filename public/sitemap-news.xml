@@ -9,7 +9,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T21:14:32.585Z</news:publication_date>
+      <news:publication_date>2026-11-08T21:51:18.796Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -31,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T15:35:32.411Z</news:publication_date>
+      <news:publication_date>2026-11-08T20:32:40.789Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,19 +64,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T20:10:24.503Z</news:publication_date>
+      <news:publication_date>2026-11-08T18:03:14.278Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/argoproj/argo-cd</loc>
+    <loc>https://contributor.info/vercel/ai</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T06:00:20.108Z</news:publication_date>
-      <news:title>argoproj/argo-cd - Contributor Updates</news:title>
+      <news:publication_date>2026-11-09T06:24:51.732Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -119,7 +119,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T04:07:52.601Z</news:publication_date>
+      <news:publication_date>2026-11-08T15:50:49.204Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T20:15:57.278Z</news:publication_date>
+      <news:publication_date>2026-11-08T21:34:04.342Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -146,17 +146,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/theopenlane/core</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T09:19:13.385Z</news:publication_date>
-      <news:title>theopenlane/core - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/mautic/user-documentation</loc>
     <news:news>
       <news:publication>
@@ -168,14 +157,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/grenzbotin/strapi-llm-translator</loc>
+    <loc>https://contributor.info/ClickHouse/ClickHouse</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T06:46:30.088Z</news:publication_date>
-      <news:title>grenzbotin/strapi-llm-translator - Contributor Updates</news:title>
+      <news:publication_date>2026-11-08T12:54:45.317Z</news:publication_date>
+      <news:title>ClickHouse/ClickHouse - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
