@@ -9,7 +9,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T22:12:21.531Z</news:publication_date>
+      <news:publication_date>2026-11-10T22:23:02.621Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -58,14 +58,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/vercel/ai</loc>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T06:24:51.732Z</news:publication_date>
-      <news:title>vercel/ai - Contributor Updates</news:title>
+      <news:publication_date>2026-11-11T08:21:12.316Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/better-auth/better-auth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T07:04:08.669Z</news:publication_date>
+      <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T00:12:59.785Z</news:publication_date>
+      <news:publication_date>2026-11-10T21:37:03.211Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T17:22:47.126Z</news:publication_date>
+      <news:publication_date>2026-11-10T23:02:11.628Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,8 +108,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T21:33:05.798Z</news:publication_date>
+      <news:publication_date>2026-11-11T00:25:11.313Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/PyPSA/PyPSA</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T10:36:50.356Z</news:publication_date>
+      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -108,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T21:13:44.875Z</news:publication_date>
+      <news:publication_date>2026-11-11T03:46:16.725Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +141,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T12:07:57.268Z</news:publication_date>
+      <news:publication_date>2026-11-11T05:42:31.878Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -135,14 +157,36 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/papercomputeco/tapes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:29:04.822Z</news:publication_date>
+      <news:title>papercomputeco/tapes - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/terrapkg/packages</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T20:20:58.892Z</news:publication_date>
+      <news:publication_date>2026-11-11T01:13:56.799Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/husamql3/pstrack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T10:45:12.519Z</news:publication_date>
+      <news:title>husamql3/pstrack - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -157,13 +201,24 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/sujithq/sujithq.github.io</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T01:00:57.695Z</news:publication_date>
+      <news:title>sujithq/sujithq.github.io - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/ClickHouse/ClickHouse</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-08T12:54:45.317Z</news:publication_date>
+      <news:publication_date>2026-11-10T23:56:28.705Z</news:publication_date>
       <news:title>ClickHouse/ClickHouse - Contributor Updates</news:title>
     </news:news>
   </url>
