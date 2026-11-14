@@ -9,19 +9,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T00:35:40.376Z</news:publication_date>
+      <news:publication_date>2026-11-13T23:26:44.778Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ohmyzsh/ohmyzsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:05:24.148Z</news:publication_date>
-      <news:title>ohmyzsh/ohmyzsh - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,19 +31,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T04:18:30.856Z</news:publication_date>
+      <news:publication_date>2026-11-13T15:43:59.636Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/punkpeye/awesome-mcp-servers</loc>
+    <loc>https://contributor.info/etcd-io/etcd</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T15:49:28.693Z</news:publication_date>
-      <news:title>punkpeye/awesome-mcp-servers - Contributor Updates</news:title>
+      <news:publication_date>2026-11-13T20:29:36.120Z</news:publication_date>
+      <news:title>etcd-io/etcd - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -64,8 +53,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T13:51:47.064Z</news:publication_date>
+      <news:publication_date>2026-11-14T07:47:03.674Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/vercel/ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:57:59.014Z</news:publication_date>
+      <news:title>vercel/ai - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T14:06:11.244Z</news:publication_date>
+      <news:publication_date>2026-11-13T11:42:29.193Z</news:publication_date>
       <news:title>better-auth/better-auth - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T05:49:35.268Z</news:publication_date>
+      <news:publication_date>2026-11-13T17:51:53.390Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T05:42:33.793Z</news:publication_date>
+      <news:publication_date>2026-11-13T17:18:31.278Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +119,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T01:40:13.981Z</news:publication_date>
+      <news:publication_date>2026-11-14T07:55:24.796Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -141,7 +141,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T03:27:15.123Z</news:publication_date>
+      <news:publication_date>2026-11-14T06:29:46.846Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +152,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T23:55:06.985Z</news:publication_date>
+      <news:publication_date>2026-11-14T02:32:41.558Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -163,8 +163,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T01:50:18.602Z</news:publication_date>
+      <news:publication_date>2026-11-14T07:05:45.523Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/ClickHouse/ClickHouse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T16:18:00.511Z</news:publication_date>
+      <news:title>ClickHouse/ClickHouse - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
