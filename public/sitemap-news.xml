@@ -9,19 +9,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T23:26:44.778Z</news:publication_date>
+      <news:publication_date>2026-11-14T23:45:07.676Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/ollama/ollama</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:59:51.379Z</news:publication_date>
-      <news:title>ollama/ollama - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -31,7 +20,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T15:43:59.636Z</news:publication_date>
+      <news:publication_date>2026-11-14T18:09:17.090Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,8 +42,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-14T07:47:03.674Z</news:publication_date>
+      <news:publication_date>2026-11-14T19:39:22.323Z</news:publication_date>
       <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/atuinsh/atuin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T09:15:02.226Z</news:publication_date>
+      <news:title>atuinsh/atuin - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -66,6 +66,17 @@
       </news:publication>
       <news:publication_date>2026-11-13T21:57:59.014Z</news:publication_date>
       <news:title>vercel/ai - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T18:46:10.820Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -86,19 +97,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T17:51:53.390Z</news:publication_date>
+      <news:publication_date>2026-11-14T22:48:49.627Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:49:36.642Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -108,8 +108,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T17:18:31.278Z</news:publication_date>
+      <news:publication_date>2026-11-15T00:33:31.941Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/google/syzkaller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:02:39.915Z</news:publication_date>
+      <news:title>google/syzkaller - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -119,7 +130,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-14T07:55:24.796Z</news:publication_date>
+      <news:publication_date>2026-11-15T06:50:14.942Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,7 +141,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T01:04:47.531Z</news:publication_date>
+      <news:publication_date>2026-11-14T14:30:51.479Z</news:publication_date>
       <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -141,7 +152,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-14T06:29:46.846Z</news:publication_date>
+      <news:publication_date>2026-11-14T10:08:44.686Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -152,7 +163,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-14T02:32:41.558Z</news:publication_date>
+      <news:publication_date>2026-11-14T13:56:57.735Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -165,6 +176,17 @@
       </news:publication>
       <news:publication_date>2026-11-14T07:05:45.523Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/mautic/user-documentation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T11:34:49.408Z</news:publication_date>
+      <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
