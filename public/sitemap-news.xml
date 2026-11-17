@@ -9,7 +9,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T00:05:19.737Z</news:publication_date>
+      <news:publication_date>2026-11-17T00:18:38.083Z</news:publication_date>
       <news:title>react/react - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -20,30 +20,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-15T20:10:55.613Z</news:publication_date>
+      <news:publication_date>2026-11-17T05:14:24.885Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/TanStack/table</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T19:39:22.323Z</news:publication_date>
-      <news:title>TanStack/table - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/pgvector/pgvector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T18:46:10.820Z</news:publication_date>
-      <news:title>pgvector/pgvector - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -64,19 +42,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T07:31:21.847Z</news:publication_date>
+      <news:publication_date>2026-11-17T02:58:25.128Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/google/syzkaller</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:02:39.915Z</news:publication_date>
-      <news:title>google/syzkaller - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -86,19 +53,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-15T15:37:45.153Z</news:publication_date>
+      <news:publication_date>2026-11-17T07:49:18.562Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/PyPSA/PyPSA</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T14:30:51.479Z</news:publication_date>
-      <news:title>PyPSA/PyPSA - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -108,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T01:35:20.338Z</news:publication_date>
+      <news:publication_date>2026-11-17T06:31:52.741Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -119,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T03:44:00.244Z</news:publication_date>
+      <news:publication_date>2026-11-16T10:54:39.446Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -130,8 +86,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-15T16:38:51.188Z</news:publication_date>
+      <news:publication_date>2026-11-16T16:29:39.832Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/FZJ-IEK3-VSA/FINE</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T00:16:05.629Z</news:publication_date>
+      <news:title>FZJ-IEK3-VSA/FINE - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -141,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-15T19:28:45.966Z</news:publication_date>
+      <news:publication_date>2026-11-17T01:30:58.955Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
