@@ -20,19 +20,8 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T05:14:24.885Z</news:publication_date>
+      <news:publication_date>2026-11-18T04:59:56.622Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/agent0ai/agent-zero</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T10:34:39.631Z</news:publication_date>
-      <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +31,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T02:58:25.128Z</news:publication_date>
+      <news:publication_date>2026-11-18T06:22:07.657Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T06:31:52.741Z</news:publication_date>
+      <news:publication_date>2026-11-17T12:45:38.279Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -75,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T10:54:39.446Z</news:publication_date>
+      <news:publication_date>2026-11-17T21:25:25.226Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -86,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T16:29:39.832Z</news:publication_date>
+      <news:publication_date>2026-11-17T16:23:34.029Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
