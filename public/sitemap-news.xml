@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://contributor.info/react/react</loc>
+    <loc>https://contributor.info/microsoft/vscode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T00:18:38.083Z</news:publication_date>
-      <news:title>react/react - Contributor Updates</news:title>
+      <news:publication_date>2026-11-18T23:27:55.571Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -25,13 +25,35 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/continuedev/continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:26:03.356Z</news:publication_date>
+      <news:title>continuedev/continue - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/TanStack/table</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T08:26:41.427Z</news:publication_date>
+      <news:title>TanStack/table - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/supabase/realtime</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18T06:22:07.657Z</news:publication_date>
+      <news:publication_date>2026-11-19T08:53:34.046Z</news:publication_date>
       <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -42,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T07:49:18.562Z</news:publication_date>
+      <news:publication_date>2026-11-19T09:56:30.332Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +75,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T12:45:38.279Z</news:publication_date>
+      <news:publication_date>2026-11-19T02:06:05.179Z</news:publication_date>
       <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -64,7 +86,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T21:25:25.226Z</news:publication_date>
+      <news:publication_date>2026-11-19T08:04:18.067Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -77,28 +99,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T16:23:34.029Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/FZJ-IEK3-VSA/FINE</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:16:05.629Z</news:publication_date>
-      <news:title>FZJ-IEK3-VSA/FINE - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://contributor.info/mautic/user-documentation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:30:58.955Z</news:publication_date>
-      <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
