@@ -14,13 +14,24 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/microsoft/vscode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T04:27:06.568Z</news:publication_date>
+      <news:title>microsoft/vscode - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-21T04:17:35.316Z</news:publication_date>
+      <news:publication_date>2026-11-22T07:59:42.326Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -42,7 +53,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T12:55:37.780Z</news:publication_date>
+      <news:publication_date>2026-11-21T21:17:15.100Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -53,7 +64,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T16:20:17.651Z</news:publication_date>
+      <news:publication_date>2026-11-21T14:16:53.077Z</news:publication_date>
       <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-21T05:24:57.557Z</news:publication_date>
+      <news:publication_date>2026-11-22T02:37:27.041Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -113,24 +124,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/theopenlane/core</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T02:15:07.110Z</news:publication_date>
-      <news:title>theopenlane/core - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/mautic/user-documentation</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T01:27:01.008Z</news:publication_date>
+      <news:publication_date>2026-11-21T18:14:24.732Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
     </news:news>
   </url>
