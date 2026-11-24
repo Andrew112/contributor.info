@@ -14,24 +14,13 @@
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/microsoft/vscode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Contributor.info</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T04:27:06.568Z</news:publication_date>
-      <news:title>microsoft/vscode - Contributor Updates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://contributor.info/anomalyco/opencode</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T09:45:39.505Z</news:publication_date>
+      <news:publication_date>2026-11-24T00:23:13.873Z</news:publication_date>
       <news:title>anomalyco/opencode - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -47,25 +36,36 @@
     </news:news>
   </url>
   <url>
+    <loc>https://contributor.info/pgvector/pgvector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T10:53:02.959Z</news:publication_date>
+      <news:title>pgvector/pgvector - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://contributor.info/agent0ai/agent-zero</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T20:03:30.764Z</news:publication_date>
+      <news:publication_date>2026-11-23T21:49:40.926Z</news:publication_date>
       <news:title>agent0ai/agent-zero - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://contributor.info/Kilo-Org/kilocode</loc>
+    <loc>https://contributor.info/supabase/realtime</loc>
     <news:news>
       <news:publication>
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-21T14:16:53.077Z</news:publication_date>
-      <news:title>Kilo-Org/kilocode - Contributor Updates</news:title>
+      <news:publication_date>2026-11-24T07:01:03.370Z</news:publication_date>
+      <news:title>supabase/realtime - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -75,8 +75,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T17:06:24.457Z</news:publication_date>
+      <news:publication_date>2026-11-24T09:10:02.942Z</news:publication_date>
       <news:title>apache/maven - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/envoyproxy/ai-gateway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T15:59:26.966Z</news:publication_date>
+      <news:title>envoyproxy/ai-gateway - Contributor Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -86,7 +97,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T01:26:21.072Z</news:publication_date>
+      <news:publication_date>2026-11-24T01:05:41.733Z</news:publication_date>
       <news:title>osmlab/name-suggestion-index - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -97,7 +108,7 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T23:39:06.545Z</news:publication_date>
+      <news:publication_date>2026-11-24T06:44:21.128Z</news:publication_date>
       <news:title>terrapkg/packages - Contributor Updates</news:title>
     </news:news>
   </url>
@@ -108,8 +119,19 @@
         <news:name>Contributor.info</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-21T18:14:24.732Z</news:publication_date>
+      <news:publication_date>2026-11-23T13:13:33.749Z</news:publication_date>
       <news:title>mautic/user-documentation - Contributor Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://contributor.info/N-ostalgia/AI-CMD-Assistant</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Contributor.info</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T12:18:29.284Z</news:publication_date>
+      <news:title>N-ostalgia/AI-CMD-Assistant - Contributor Updates</news:title>
     </news:news>
   </url>
 </urlset>
